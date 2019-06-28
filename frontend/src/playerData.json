@@ -1,0 +1,4425 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "namePlayer": "Aaneba\u00a0Ismael",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "1"
+    },
+    {
+      "id": "3",
+      "namePlayer": "Abdelhamid\u00a0Yunis",
+      "role": "Def. Cen.",
+      "realTeam": "Reims",
+      "initCost": "22"
+    },
+    {
+      "id": "4",
+      "namePlayer": "Abdennour\u00a0Aymen",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "4"
+    },
+    {
+      "id": "5",
+      "namePlayer": "Abeid\u00a0Mehdi",
+      "role": "Mil. Def.",
+      "realTeam": "Dijon",
+      "initCost": "16"
+    },
+    {
+      "id": "6",
+      "namePlayer": "Abi\u00a0Charles Nathan",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "2"
+    },
+    {
+      "id": "7",
+      "namePlayer": "Adama Traor\u00e9",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "8",
+      "namePlayer": "Adli\u00a0Yacine",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "9",
+      "namePlayer": "Adouyev\u00a0Amir",
+      "role": "Mil. Off",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "10",
+      "namePlayer": "Ad\u00e9non\u00a0Khaled",
+      "role": "Def. Cen.",
+      "realTeam": "Amiens",
+      "initCost": "11",
+      "url" : "../public/players/amiens/Adenon_Khaled.jpg"
+    },
+    {
+      "id": "11",
+      "namePlayer": "Aguerd\u00a0Nayef",
+      "role": "Def. Cen.",
+      "realTeam": "Dijon",
+      "initCost": "8"
+    },
+    {
+      "id": "12",
+      "namePlayer": "Aguilar\u00a0Ruben",
+      "role": "Def. Lat.",
+      "realTeam": "Montpellier",
+      "initCost": "23"
+    },
+    {
+      "id": "13",
+      "namePlayer": "Ahlinvi\u00a0Matteo",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "1"
+    },
+    {
+      "id": "14",
+      "namePlayer": "Aholou\u00a0Jean Eudes",
+      "role": "Mil. Def.",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "15",
+      "namePlayer": "Ait Nouri\u00a0Rayan",
+      "role": "Def. Lat.",
+      "realTeam": "Angers",
+      "initCost": "3"
+    },
+    {
+      "id": "16",
+      "namePlayer": "Ajorque\u00a0Ludovic",
+      "role": "Attaquant",
+      "realTeam": "Strasbourg",
+      "initCost": "8"
+    },
+    {
+      "id": "17",
+      "namePlayer": "Ako\u00a0Steven",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "1"
+    },
+    {
+      "id": "18",
+      "namePlayer": "Alakouch\u00a0Sofiane",
+      "role": "Def. Lat.",
+      "realTeam": "N\u00eemes",
+      "initCost": "10"
+    },
+    {
+      "id": "19",
+      "namePlayer": "Ali Mohamed\u00a0Abdallah",
+      "role": "Def. Lat.",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "20",
+      "namePlayer": "Alioui\u00a0Rachid",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "14"
+    },
+    {
+      "id": "21",
+      "namePlayer": "Allain\u00a0Bobby",
+      "role": "Gardien",
+      "realTeam": "Dijon",
+      "initCost": "11"
+    },
+    {
+      "id": "22",
+      "namePlayer": "Almamy Tour\u00e9",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "7"
+    },
+    {
+      "id": "23",
+      "namePlayer": "Alphonse\u00a0Micka\u00ebl",
+      "role": "Def. Lat.",
+      "realTeam": "Dijon",
+      "initCost": "7"
+    },
+    {
+      "id": "24",
+      "namePlayer": "Amalfitano\u00a0Romain",
+      "role": "Mil. Def.",
+      "realTeam": "Dijon",
+      "initCost": "10"
+    },
+    {
+      "id": "25",
+      "namePlayer": "Amavi\u00a0Jordan",
+      "role": "Def. Lat.",
+      "realTeam": "Marseille",
+      "initCost": "10"
+    },
+    {
+      "id": "26",
+      "namePlayer": "Amian\u00a0Kelvin",
+      "role": "Def. Lat.",
+      "realTeam": "Toulouse",
+      "initCost": "12"
+    },
+    {
+      "id": "27",
+      "namePlayer": "Ammour\u00a0Yannis",
+      "role": "Mil. Off",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "28",
+      "namePlayer": "Andrei Girotto",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "12"
+    },
+    {
+      "id": "29",
+      "namePlayer": "Andreu\u00a0Yoann",
+      "role": "Def. Lat.",
+      "realTeam": "Angers",
+      "initCost": "7",
+      "url": "../public/players/sco-angers/NB/Andreu_Yoann_NB.png"
+    },
+    {
+      "id": "30",
+      "namePlayer": "Andr\u00e9\u00a0Benjamin",
+      "role": "Mil. Def.",
+      "realTeam": "Rennes",
+      "initCost": "16"
+    },
+    {
+      "id": "31",
+      "namePlayer": "Anthony Lopes",
+      "role": "Gardien",
+      "realTeam": "Lyon",
+      "initCost": "20",
+      "url":"../public/players/ol/Anthony_Lopes.jpg"
+    },
+    {
+      "id": "32",
+      "namePlayer": "Aouar\u00a0Houssem",
+      "role": "Mil. Off",
+      "realTeam": "Lyon",
+      "initCost": "23",
+      "url":"../public/players/ol/Aouar_Houssem.jpg"
+    },
+    {
+      "id": "33",
+      "namePlayer": "Areola\u00a0Alphonse",
+      "role": "Gardien",
+      "realTeam": "Paris",
+      "initCost": "18",
+      "url":"../public/players/psg/NB/Alphonse_Areola_NB.png"
+    },
+    {
+      "id": "34",
+      "namePlayer": "Armougom\u00a0Yoel",
+      "role": "Def. Lat.",
+      "realTeam": "Caen",
+      "initCost": "9"
+    },
+    {
+      "id": "35",
+      "namePlayer": "Atal\u00a0Youcef",
+      "role": "Def. Lat.",
+      "realTeam": "Nice",
+      "initCost": "10"
+    },
+    {
+      "id": "36",
+      "namePlayer": "A\u00eft Bennasser\u00a0Youssef",
+      "role": "Mil. Def.",
+      "realTeam": "Monaco",
+      "initCost": "14"
+    },
+    {
+      "id": "37",
+      "namePlayer": "Baal\u00a0Ludovic",
+      "role": "Def. Lat.",
+      "realTeam": "Rennes",
+      "initCost": "4"
+    },
+    {
+      "id": "38",
+      "namePlayer": "Badiashile\u00a0Loic",
+      "role": "Gardien",
+      "realTeam": "Monaco",
+      "initCost": "2"
+    },
+    {
+      "id": "39",
+      "namePlayer": "Badiashile Mukinayi\u00a0Benoit",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "7"
+    },
+    {
+      "id": "40",
+      "namePlayer": "Bahanack\u00a0Patrick",
+      "role": "Def. Cen.",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "41",
+      "namePlayer": "Bahlouli\u00a0Fares",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "5"
+    },
+    {
+      "id": "42",
+      "namePlayer": "Bahoken\u00a0St\u00e9phane",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "16"
+    },
+    {
+      "id": "43",
+      "namePlayer": "Bajic\u00a0Stefan",
+      "role": "Gardien",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "44",
+      "namePlayer": "Ballo-Toure\u00a0Fode",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "17"
+    },
+    {
+      "id": "45",
+      "namePlayer": "Balmont\u00a0Florent",
+      "role": "Mil. Def.",
+      "realTeam": "Dijon",
+      "initCost": "9"
+    },
+    {
+      "id": "46",
+      "namePlayer": "Balotelli\u00a0Mario",
+      "role": "Attaquant",
+      "realTeam": "Nice",
+      "initCost": "15"
+    },
+    {
+      "id": "47",
+      "namePlayer": "Bamba\u00a0Jonathan",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "21"
+    },
+    {
+      "id": "48",
+      "namePlayer": "Bamba\u00a0Kader",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "49",
+      "namePlayer": "Bamba\u00a0Abdoulaye",
+      "role": "Def. Lat.",
+      "realTeam": "Angers",
+      "initCost": "12",
+      "url":"../public/players/sco-angers/NB/Bamba_Abdoulaye_NB.png"
+    },
+    {
+      "id": "50",
+      "namePlayer": "Bammou\u00a0Yacine",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "9"
+    },
+    {
+      "id": "51",
+      "namePlayer": "Bana\u00a0Moussa",
+      "role": "Def. Lat.",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "52",
+      "namePlayer": "Banaziak\u00a0Gauthier",
+      "role": "Gardien",
+      "realTeam": "Amiens",
+      "initCost": "1",
+      "url":"../public/players/amiens/Banaziak_Gautier.jpg"
+    },
+    {
+      "id": "53",
+      "namePlayer": "Bangou\u00a0Duplexe Tchamba",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "1"
+    },
+    {
+      "id": "54",
+      "namePlayer": "Barbet\u00a0Theo",
+      "role": "Def. Cen.",
+      "realTeam": "Dijon",
+      "initCost": "1"
+    },
+    {
+      "id": "55",
+      "namePlayer": "Barreca\u00a0Antonio",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "56",
+      "namePlayer": "Basic\u00a0Toma",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "6"
+    },
+    {
+      "id": "57",
+      "namePlayer": "Basila\u00a0Thomas",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "58",
+      "namePlayer": "Baysse\u00a0Paul",
+      "role": "Def. Cen.",
+      "realTeam": "Caen",
+      "initCost": "11"
+    },
+    {
+      "id": "59",
+      "namePlayer": "Beauvue\u00a0Claudio",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "11"
+    },
+    {
+      "id": "60",
+      "namePlayer": "Ben Amar\u00a0Sami",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "1"
+    },
+    {
+      "id": "61",
+      "namePlayer": "Ben Arfa\u00a0Hatem",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "20"
+    },
+    {
+      "id": "62",
+      "namePlayer": "Benaglio\u00a0Diego",
+      "role": "Gardien",
+      "realTeam": "Monaco",
+      "initCost": "15"
+    },
+    {
+      "id": "63",
+      "namePlayer": "Benezet\u00a0Nicolas",
+      "role": "Mil. Off",
+      "realTeam": "Guingamp",
+      "initCost": "15"
+    },
+    {
+      "id": "64",
+      "namePlayer": "Benkhedim\u00a0Bilal",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "65",
+      "namePlayer": "Benrahou\u00a0Yassin",
+      "role": "Mil. Off",
+      "realTeam": "Bordeaux",
+      "initCost": "1"
+    },
+    {
+      "id": "66",
+      "namePlayer": "Bensebaini\u00a0Ramy",
+      "role": "Def. Cen.",
+      "realTeam": "Rennes",
+      "initCost": "12"
+    },
+    {
+      "id": "67",
+      "namePlayer": "Ben\u00edtez\u00a0Walter",
+      "role": "Gardien",
+      "realTeam": "Nice",
+      "initCost": "24"
+    },
+    {
+      "id": "68",
+      "namePlayer": "Beric\u00a0Robert",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "9"
+    },
+    {
+      "id": "69",
+      "namePlayer": "Bernardoni\u00a0Paul",
+      "role": "Gardien",
+      "realTeam": "N\u00eemes",
+      "initCost": "19"
+    },
+    {
+      "id": "70",
+      "namePlayer": "Bernat\u00a0Juan",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "13"
+    },
+    {
+      "id": "71",
+      "namePlayer": "Bernede\u00a0Antoine",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "6"
+    },
+    {
+      "id": "72",
+      "namePlayer": "Bertaud\u00a0Dimitry",
+      "role": "Gardien",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "73",
+      "namePlayer": "Bertrand\u00a0Dorian",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "1"
+    },
+    {
+      "id": "74",
+      "namePlayer": "Bessile\u00a0Loic",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "75",
+      "namePlayer": "Biancone\u00a0Giulian",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "76",
+      "namePlayer": "Bilingi\u00a0Yohan",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "2"
+    },
+    {
+      "id": "77",
+      "namePlayer": "Blas\u00a0Ludovic",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "10"
+    },
+    {
+      "id": "78",
+      "namePlayer": "Blin\u00a0Alexis",
+      "role": "Mil. Def.",
+      "realTeam": "Amiens",
+      "initCost": "10"
+    },
+    {
+      "id": "79",
+      "namePlayer": "Bobichon\u00a0Antonin",
+      "role": "Mil. Off",
+      "realTeam": "N\u00eemes",
+      "initCost": "13"
+    },
+    {
+      "id": "80",
+      "namePlayer": "Bodiger\u00a0Yann",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "4"
+    },
+    {
+      "id": "81",
+      "namePlayer": "Bodmer\u00a0Mathieu",
+      "role": "Def. Cen.",
+      "realTeam": "Amiens",
+      "initCost": "9"
+    },
+    {
+      "id": "82",
+      "namePlayer": "Boscagli\u00a0Olivier",
+      "role": "Def. Lat.",
+      "realTeam": "Nice",
+      "initCost": "10"
+    },
+    {
+      "id": "83",
+      "namePlayer": "Boschilia\u00a0Gabriel",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "17"
+    },
+    {
+      "id": "84",
+      "namePlayer": "Bostock\u00a0John",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "9"
+    },
+    {
+      "id": "85",
+      "namePlayer": "Bouanga\u00a0Denis",
+      "role": "Mil. Off",
+      "realTeam": "N\u00eemes",
+      "initCost": "16"
+    },
+    {
+      "id": "86",
+      "namePlayer": "Boucher\u00a0Zacharie",
+      "role": "Gardien",
+      "realTeam": "Angers",
+      "initCost": "7"
+    },
+    {
+      "id": "87",
+      "namePlayer": "Boudjemaa\u00a0Mehdi",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "1"
+    },
+    {
+      "id": "88",
+      "namePlayer": "Bouka Moutou\u00a0Arnold",
+      "role": "Def. Lat.",
+      "realTeam": "Dijon",
+      "initCost": "4"
+    },
+    {
+      "id": "89",
+      "namePlayer": "Boukholda\u00a0Chahreddine",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "3"
+    },
+    {
+      "id": "90",
+      "namePlayer": "Bourigeaud\u00a0Benjamin",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "17"
+    },
+    {
+      "id": "91",
+      "namePlayer": "Bozok\u00a0Umut",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "15"
+    },
+    {
+      "id": "92",
+      "namePlayer": "Braat\u00a0Quentin",
+      "role": "Gardien",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "93",
+      "namePlayer": "Briancon\u00a0Anthony",
+      "role": "Def. Cen.",
+      "realTeam": "N\u00eemes",
+      "initCost": "22"
+    },
+    {
+      "id": "94",
+      "namePlayer": "Briand\u00a0Jimmy",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "16"
+    },
+    {
+      "id": "95",
+      "namePlayer": "Buades\u00a0Lucas",
+      "role": "Mil. Off",
+      "realTeam": "N\u00eemes",
+      "initCost": "1"
+    },
+    {
+      "id": "96",
+      "namePlayer": "Buffon\u00a0Gianluigi",
+      "role": "Gardien",
+      "realTeam": "Paris",
+      "initCost": "17"
+    },
+    {
+      "id": "97",
+      "namePlayer": "Burner\u00a0Patrick",
+      "role": "Def. Lat.",
+      "realTeam": "Nice",
+      "initCost": "5"
+    },
+    {
+      "id": "98",
+      "namePlayer": "Butelle\u00a0Ludovic",
+      "role": "Gardien",
+      "realTeam": "Angers",
+      "initCost": "18"
+    },
+    {
+      "id": "99",
+      "namePlayer": "Cabella\u00a0R\u00e9my",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "30"
+    },
+    {
+      "id": "100",
+      "namePlayer": "Caci\u00a0Anthony",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "7"
+    },
+    {
+      "id": "101",
+      "namePlayer": "Cafaro\u00a0Mathieu",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "13"
+    },
+    {
+      "id": "102",
+      "namePlayer": "Cagnon\u00a0Romain",
+      "role": "Gardien",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "103",
+      "namePlayer": "Cahuzac\u00a0Yannick",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "10"
+    },
+    {
+      "id": "104",
+      "namePlayer": "Caillard\u00a0Marc-Aur\u00e8le",
+      "role": "Gardien",
+      "realTeam": "Guingamp",
+      "initCost": "1"
+    },
+    {
+      "id": "105",
+      "namePlayer": "Cakin\u00a0Hendrick",
+      "role": "Def. Lat.",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "106",
+      "namePlayer": "Caleta-Car\u00a0Duje",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "6"
+    },
+    {
+      "id": "107",
+      "namePlayer": "Callens\u00a0Thomas",
+      "role": "Gardien",
+      "realTeam": "Caen",
+      "initCost": "1"
+    },
+    {
+      "id": "108",
+      "namePlayer": "Camara\u00a0Souleymane",
+      "role": "Attaquant",
+      "realTeam": "Montpellier",
+      "initCost": "5"
+    },
+    {
+      "id": "109",
+      "namePlayer": "Camara\u00a0Mahdi",
+      "role": "Mil. Def.",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "110",
+      "namePlayer": "Capelle\u00a0Pierrick",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "14"
+    },
+    {
+      "id": "111",
+      "namePlayer": "Caqueret\u00a0Maxence",
+      "role": "Mil. Def.",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "112",
+      "namePlayer": "Cardinale\u00a0Yoan",
+      "role": "Gardien",
+      "realTeam": "Nice",
+      "initCost": "9"
+    },
+    {
+      "id": "113",
+      "namePlayer": "Carole\u00a0Lionel",
+      "role": "Def. Lat.",
+      "realTeam": "Strasbourg",
+      "initCost": "12"
+    },
+    {
+      "id": "114",
+      "namePlayer": "Carrasso\u00a0Johann",
+      "role": "Gardien",
+      "realTeam": "Reims",
+      "initCost": "4"
+    },
+    {
+      "id": "115",
+      "namePlayer": "Carrique\u00a0Thomas",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "2"
+    },
+    {
+      "id": "116",
+      "namePlayer": "Carvalho\u00a0Matis",
+      "role": "Gardien",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "117",
+      "namePlayer": "Casimir Ninga",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "8"
+    },
+    {
+      "id": "118",
+      "namePlayer": "Cavani\u00a0Edinson",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "40",
+      "url":"http://localhost:3000/src/players/psg/NB/Cavani_Edinson_NB.png"
+    },
+    {
+      "id": "119",
+      "namePlayer": "Chabrolle\u00a0Florian",
+      "role": "Attaquant",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "120",
+      "namePlayer": "Chadli\u00a0Nacer",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "121",
+      "namePlayer": "Chafik\u00a0Fouad",
+      "role": "Def. Lat.",
+      "realTeam": "Dijon",
+      "initCost": "6"
+    },
+    {
+      "id": "122",
+      "namePlayer": "Chambost\u00a0Dylan",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "123",
+      "namePlayer": "Charles Traor\u00e9",
+      "role": "Def. Lat.",
+      "realTeam": "Nantes",
+      "initCost": "6"
+    },
+    {
+      "id": "124",
+      "namePlayer": "Chavalerin\u00a0Xavier",
+      "role": "Mil. Def.",
+      "realTeam": "Reims",
+      "initCost": "18"
+    },
+    {
+      "id": "125",
+      "namePlayer": "Chavarria\u00a0Pablo",
+      "role": "Attaquant",
+      "realTeam": "Reims",
+      "initCost": "13"
+    },
+    {
+      "id": "126",
+      "namePlayer": "Choupo-Moting\u00a0Eric Maxim",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "11"
+    },
+    {
+      "id": "127",
+      "namePlayer": "Cibois\u00a0Sebastien",
+      "role": "Gardien",
+      "realTeam": "Paris",
+      "initCost": "4",
+      "url": "../public/players/psg/NB/Cibois_Sebastien_NB.png"
+    },
+    {
+      "id": "128",
+      "namePlayer": "Ciss\u00a0Saliou",
+      "role": "Def. Lat.",
+      "realTeam": "Angers",
+      "initCost": "5"
+    },
+    {
+      "id": "129",
+      "namePlayer": "Cisse\u00a0Ibrahim",
+      "role": "Def. Cen.",
+      "realTeam": "Angers",
+      "initCost": "5"
+    },
+    {
+      "id": "130",
+      "namePlayer": "Clementia\u00a0Yannis",
+      "role": "Gardien",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "131",
+      "namePlayer": "Coco\u00a0Marcus",
+      "role": "Mil. Off",
+      "realTeam": "Guingamp",
+      "initCost": "11"
+    },
+    {
+      "id": "132",
+      "namePlayer": "Coly\u00a0Racine",
+      "role": "Def. Lat.",
+      "realTeam": "Nice",
+      "initCost": "7"
+    },
+    {
+      "id": "133",
+      "namePlayer": "Congr\u00e9\u00a0Daniel",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "19"
+    },
+    {
+      "id": "134",
+      "namePlayer": "Corgnet\u00a0Benjamin",
+      "role": "Mil. Off",
+      "realTeam": "Strasbourg",
+      "initCost": "11"
+    },
+    {
+      "id": "135",
+      "namePlayer": "Cornelius\u00a0Andreas",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "14"
+    },
+    {
+      "id": "136",
+      "namePlayer": "Cornet\u00a0Maxwel",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "8",
+      "url":"../public/players/ol/Cornet_Maxwell.jpg"
+    },
+    {
+      "id": "137",
+      "namePlayer": "Cornette\u00a0Quentin",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "1",
+      "url":"../public/players/amiens/Cornette_Quentin.jpg"
+    },
+    {
+      "id": "138",
+      "namePlayer": "Costil\u00a0Benoit",
+      "role": "Gardien",
+      "realTeam": "Bordeaux",
+      "initCost": "19"
+    },
+    {
+      "id": "139",
+      "namePlayer": "Coulibaly\u00a0Senou",
+      "role": "Def. Cen.",
+      "realTeam": "Dijon",
+      "initCost": "6"
+    },
+    {
+      "id": "140",
+      "namePlayer": "Cozza\u00a0Nicolas",
+      "role": "Def. Lat.",
+      "realTeam": "Montpellier",
+      "initCost": "10"
+    },
+    {
+      "id": "141",
+      "namePlayer": "Cristian",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "9"
+    },
+    {
+      "id": "142",
+      "namePlayer": "Crivelli\u00a0Enzo",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "10"
+    },
+    {
+      "id": "143",
+      "namePlayer": "Cyprien\u00a0Wylan",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "18"
+    },
+    {
+      "id": "144",
+      "namePlayer": "Da Silva\u00a0Damien",
+      "role": "Def. Cen.",
+      "realTeam": "Rennes",
+      "initCost": "14"
+    },
+    {
+      "id": "145",
+      "namePlayer": "Dabila\u00a0Kouadio",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "10"
+    },
+    {
+      "id": "146",
+      "namePlayer": "Dabo\u00a0Abdoulaye",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "5"
+    },
+    {
+      "id": "147",
+      "namePlayer": "Dabo\u00a0Mouhamadou",
+      "role": "Def. Lat.",
+      "realTeam": "Caen",
+      "initCost": "1"
+    },
+    {
+      "id": "148",
+      "namePlayer": "Dagba\u00a0Colin",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "6"
+    },
+    {
+      "id": "149",
+      "namePlayer": "Dani Alves",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "13",
+      "url":"../public/players/psg/NB/Alves_Dani_NB.png"
+    },
+    {
+      "id": "150",
+      "namePlayer": "Danilo",
+      "role": "Mil. Def.",
+      "realTeam": "Nice",
+      "initCost": "8"
+    },
+    {
+      "id": "151",
+      "namePlayer": "Dante",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "22"
+    },
+    {
+      "id": "152",
+      "namePlayer": "Danz\u00e9\u00a0Romain",
+      "role": "Def. Lat.",
+      "realTeam": "Rennes",
+      "initCost": "4"
+    },
+    {
+      "id": "153",
+      "namePlayer": "Deaux\u00a0Lucas",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "154",
+      "namePlayer": "Debuchy\u00a0Mathieu",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "14"
+    },
+    {
+      "id": "155",
+      "namePlayer": "Del Castillo\u00a0Romain",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "9"
+    },
+    {
+      "id": "156",
+      "namePlayer": "Delort\u00a0Andy",
+      "role": "Attaquant",
+      "realTeam": "Montpellier",
+      "initCost": "23"
+    },
+    {
+      "id": "157",
+      "namePlayer": "Dembele\u00a0Moussa",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "19"
+    },
+    {
+      "id": "158",
+      "namePlayer": "Deminguet\u00a0Jessy",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "8"
+    },
+    {
+      "id": "159",
+      "namePlayer": "Denayer\u00a0Jason",
+      "role": "Def. Cen.",
+      "realTeam": "Lyon",
+      "initCost": "15"
+    },
+    {
+      "id": "160",
+      "namePlayer": "Depay\u00a0Memphis",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "22",
+      "url":"../public/players/ol/Depay_Memphis.jpg"
+    },
+    {
+      "id": "161",
+      "namePlayer": "Depres\u00a0Clement",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "11"
+    },
+    {
+      "id": "162",
+      "namePlayer": "Di Mar\u00eda\u00a0\u00c1ngel",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "31",
+      "url":"../public/players/psg/NB/DiMaria_Angel_NB.png"
+    },
+    {
+      "id": "163",
+      "namePlayer": "Dia\u00a0Boulaye",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "164",
+      "namePlayer": "Diaby\u00a0Moussa",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "13"
+    },
+    {
+      "id": "165",
+      "namePlayer": "Diaby\u00a0Mohamed Lamine",
+      "role": "Attaquant",
+      "realTeam": "Nice",
+      "initCost": "4"
+    },
+    {
+      "id": "166",
+      "namePlayer": "Diakite\u00a0Bafode",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "167",
+      "namePlayer": "Diallo\u00a0Namakoro",
+      "role": "Def. Lat.",
+      "realTeam": "Rennes",
+      "initCost": "1"
+    },
+    {
+      "id": "168",
+      "namePlayer": "Diallo\u00a0Moustapha",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "7"
+    },
+    {
+      "id": "169",
+      "namePlayer": "Diallo\u00a0Abdoulaye",
+      "role": "Gardien",
+      "realTeam": "Rennes",
+      "initCost": "12"
+    },
+    {
+      "id": "170",
+      "namePlayer": "Diarra\u00a0Ibrahim",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "1"
+    },
+    {
+      "id": "171",
+      "namePlayer": "Dibassy\u00a0Bakaye",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "11",
+      "url":"../public/players/amiens/Dibassy_Bakaye.jpg"
+    },
+    {
+      "id": "172",
+      "namePlayer": "Didot\u00a0\u00c9tienne",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "13"
+    },
+    {
+      "id": "173",
+      "namePlayer": "Diego Carlos",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "12"
+    },
+    {
+      "id": "174",
+      "namePlayer": "Dingome\u00a0Tristan",
+      "role": "Mil. Def.",
+      "realTeam": "Reims",
+      "initCost": "6"
+    },
+    {
+      "id": "175",
+      "namePlayer": "Diomande\u00a0Ismael",
+      "role": "Mil. Def.",
+      "realTeam": "Caen",
+      "initCost": "8"
+    },
+    {
+      "id": "176",
+      "namePlayer": "Diony\u00a0Lois",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "15"
+    },
+    {
+      "id": "177",
+      "namePlayer": "Diop\u00a0Sofiane",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "178",
+      "namePlayer": "Diouss\u00e9\u00a0Assane",
+      "role": "Mil. Def.",
+      "realTeam": "Saint Etienne",
+      "initCost": "8"
+    },
+    {
+      "id": "179",
+      "namePlayer": "Disasi\u00a0Axel",
+      "role": "Def. Cen.",
+      "realTeam": "Reims",
+      "initCost": "4"
+    },
+    {
+      "id": "180",
+      "namePlayer": "Djiku\u00a0Alexander",
+      "role": "Def. Cen.",
+      "realTeam": "Caen",
+      "initCost": "12"
+    },
+    {
+      "id": "181",
+      "namePlayer": "Djilobodji\u00a0Papy",
+      "role": "Def. Cen.",
+      "realTeam": "Guingamp",
+      "initCost": "8"
+    },
+    {
+      "id": "182",
+      "namePlayer": "Dolly\u00a0Keagan",
+      "role": "Mil. Off",
+      "realTeam": "Montpellier",
+      "initCost": "6"
+    },
+    {
+      "id": "183",
+      "namePlayer": "Dor\u00e9\u00a0F\u00e9r\u00e9bory",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "2",
+      "url":"../public/players/sco-angers/NB/Dore_Ferebory_NB.png"
+    },
+    {
+      "id": "184",
+      "namePlayer": "Dossevi\u00a0Mathieu",
+      "role": "Mil. Off",
+      "realTeam": "Toulouse",
+      "initCost": "14"
+    },
+    {
+      "id": "185",
+      "namePlayer": "Doumbia\u00a0Moussa",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "11"
+    },
+    {
+      "id": "186",
+      "namePlayer": "Doumbouya\u00a0Sory",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "1"
+    },
+    {
+      "id": "187",
+      "namePlayer": "Drame\u00a0Jawad",
+      "role": "Mil. Def.",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "188",
+      "namePlayer": "Draxler\u00a0Julian",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "18",
+      "url":"../public/players/psg/NB/Draxler_Julian_NB.png"
+    },
+    {
+      "id": "189",
+      "namePlayer": "Dreyer\u00a0Matthieu",
+      "role": "Gardien",
+      "realTeam": "Amiens",
+      "initCost": "3"
+    },
+    {
+      "id": "190",
+      "namePlayer": "Dubois\u00a0L\u00e9o",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "8"
+    },
+    {
+      "id": "191",
+      "namePlayer": "Dup\u00e9\u00a0Maxime",
+      "role": "Gardien",
+      "realTeam": "Nantes",
+      "initCost": "9"
+    },
+    {
+      "id": "192",
+      "namePlayer": "Durmaz\u00a0Jimmy",
+      "role": "Mil. Off",
+      "realTeam": "Toulouse",
+      "initCost": "12"
+    },
+    {
+      "id": "193",
+      "namePlayer": "Eboa Eboa\u00a0F\u00e9lix",
+      "role": "Def. Cen.",
+      "realTeam": "Guingamp",
+      "initCost": "11"
+    },
+    {
+      "id": "194",
+      "namePlayer": "Edgar I\u00e9",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "7"
+    },
+    {
+      "id": "195",
+      "namePlayer": "El Hajjam\u00a0Oualid",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "5",
+      "url":"../public/players/amiens/ElHajjam_Oualid.jpg"
+    },
+    {
+      "id": "196",
+      "namePlayer": "El Melali\u00a0Farid",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "5"
+    },
+    {
+      "id": "197",
+      "namePlayer": "El Mokkedem\u00a0Hakim",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "198",
+      "namePlayer": "Engels\u00a0Bj\u00f6rn",
+      "role": "Def. Cen.",
+      "realTeam": "Reims",
+      "initCost": "15"
+    },
+    {
+      "id": "199",
+      "namePlayer": "Escales\u00a0Florian",
+      "role": "Gardien",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "200",
+      "namePlayer": "Fabio",
+      "role": "Def. Lat.",
+      "realTeam": "Nantes",
+      "initCost": "9"
+    },
+    {
+      "id": "201",
+      "namePlayer": "Faitout Maouassa",
+      "role": "Mil. Off",
+      "realTeam": "N\u00eemes",
+      "initCost": "12"
+    },
+    {
+      "id": "202",
+      "namePlayer": "Faivre\u00a0Romain",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "203",
+      "namePlayer": "Fajr\u00a0Faycal",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "18"
+    },
+    {
+      "id": "204",
+      "namePlayer": "Falcao\u00a0Radamel",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "25"
+    },
+    {
+      "id": "205",
+      "namePlayer": "Faraj\u00a0Imad",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "5"
+    },
+    {
+      "id": "206",
+      "namePlayer": "Fekir\u00a0Nabil",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "19"
+    },
+    {
+      "id": "207",
+      "namePlayer": "Fekir\u00a0Yassin",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "208",
+      "namePlayer": "Fernando Costanza",
+      "role": "Def. Lat.",
+      "realTeam": "Lille",
+      "initCost": "3"
+    },
+    {
+      "id": "209",
+      "namePlayer": "Ferri\u00a0Jordan",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "10"
+    },
+    {
+      "id": "210",
+      "namePlayer": "Flips\u00a0Alexis",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "1"
+    },
+    {
+      "id": "211",
+      "namePlayer": "Fofana\u00a0Guessouma",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "212",
+      "namePlayer": "Fofana\u00a0Youssouf",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "6"
+    },
+    {
+      "id": "213",
+      "namePlayer": "Foket\u00a0Thomas",
+      "role": "Def. Lat.",
+      "realTeam": "Reims",
+      "initCost": "11"
+    },
+    {
+      "id": "214",
+      "namePlayer": "Fontaine\u00a0Thomas",
+      "role": "Def. Cen.",
+      "realTeam": "Reims",
+      "initCost": "8"
+    },
+    {
+      "id": "215",
+      "namePlayer": "Fressange\u00a0Alexandre",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "216",
+      "namePlayer": "Fulgini\u00a0Angelo",
+      "role": "Mil. Def.",
+      "realTeam": "Angers",
+      "initCost": "10"
+    },
+    {
+      "id": "217",
+      "namePlayer": "Gabriel",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "6"
+    },
+    {
+      "id": "218",
+      "namePlayer": "Gabriel Silva",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "12"
+    },
+    {
+      "id": "219",
+      "namePlayer": "Gajic\u00a0Milan",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "4"
+    },
+    {
+      "id": "220",
+      "namePlayer": "Ganago\u00a0Ignatius",
+      "role": "Attaquant",
+      "realTeam": "Nice",
+      "initCost": "8"
+    },
+    {
+      "id": "221",
+      "namePlayer": "Gaspar\u00a0Jordy",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "222",
+      "namePlayer": "Gauducheau\u00a0Antonin",
+      "role": "Gardien",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "223",
+      "namePlayer": "Gboho\u00a0Yann",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "3"
+    },
+    {
+      "id": "224",
+      "namePlayer": "Gelin\u00a0Jeremy",
+      "role": "Def. Cen.",
+      "realTeam": "Rennes",
+      "initCost": "8"
+    },
+    {
+      "id": "225",
+      "namePlayer": "Gendrey\u00a0Valentin",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "226",
+      "namePlayer": "Genevois\u00a0Romain",
+      "role": "Def. Cen.",
+      "realTeam": "Caen",
+      "initCost": "3"
+    },
+    {
+      "id": "227",
+      "namePlayer": "Georgen\u00a0Alec",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "228",
+      "namePlayer": "Germain\u00a0Val\u00e8re",
+      "role": "Attaquant",
+      "realTeam": "Marseille",
+      "initCost": "12"
+    },
+    {
+      "id": "229",
+      "namePlayer": "Gertmonas\u00a0Edvinas",
+      "role": "Gardien",
+      "realTeam": "Rennes",
+      "initCost": "1"
+    },
+    {
+      "id": "230",
+      "namePlayer": "Geubbels\u00a0Willem",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "4"
+    },
+    {
+      "id": "231",
+      "namePlayer": "Glik\u00a0Kamil",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "14"
+    },
+    {
+      "id": "232",
+      "namePlayer": "Gnahore\u00a0Eddy",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "13"
+    },
+    {
+      "id": "233",
+      "namePlayer": "Gneba\u00a0Martin",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "234",
+      "namePlayer": "Godard\u00a0Theo",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "1"
+    },
+    {
+      "id": "235",
+      "namePlayer": "Goicoechea\u00a0Mauro",
+      "role": "Gardien",
+      "realTeam": "Toulouse",
+      "initCost": "9"
+    },
+    {
+      "id": "236",
+      "namePlayer": "Golovin\u00a0Aleksandr",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "10"
+    },
+    {
+      "id": "237",
+      "namePlayer": "Goncalves\u00a0Mathieu",
+      "role": "Def. Lat.",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "238",
+      "namePlayer": "Gon\u00e7alves\u00a0Anthony",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "7"
+    },
+    {
+      "id": "239",
+      "namePlayer": "Gorgelin\u00a0Mathieu",
+      "role": "Gardien",
+      "realTeam": "Lyon",
+      "initCost": "8"
+    },
+    {
+      "id": "240",
+      "namePlayer": "Gouano\u00a0Gobe",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "241",
+      "namePlayer": "Gouiri\u00a0Amine",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "4"
+    },
+    {
+      "id": "242",
+      "namePlayer": "Gourcuff\u00a0Yoann",
+      "role": "Mil. Off",
+      "realTeam": "Dijon",
+      "initCost": "7"
+    },
+    {
+      "id": "243",
+      "namePlayer": "Gradel\u00a0Max-Alain",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "22"
+    },
+    {
+      "id": "244",
+      "namePlayer": "Gradit\u00a0Jonathan",
+      "role": "Def. Lat.",
+      "realTeam": "Caen",
+      "initCost": "7"
+    },
+    {
+      "id": "245",
+      "namePlayer": "Grandsir\u00a0Samuel",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "246",
+      "namePlayer": "Grenier\u00a0Cl\u00e9ment",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "19"
+    },
+    {
+      "id": "247",
+      "namePlayer": "Griffiths\u00a0Reo",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "248",
+      "namePlayer": "Grimm\u00a0Jeremy",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "7"
+    },
+    {
+      "id": "249",
+      "namePlayer": "Gueye\u00a0Makhtar",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "250",
+      "namePlayer": "Guilbert\u00a0Frederic",
+      "role": "Def. Lat.",
+      "realTeam": "Caen",
+      "initCost": "10"
+    },
+    {
+      "id": "251",
+      "namePlayer": "Guillaume\u00a0Baptiste",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "12"
+    },
+    {
+      "id": "252",
+      "namePlayer": "Guitane\u00a0Rafik",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "3"
+    },
+    {
+      "id": "253",
+      "namePlayer": "Gurtner\u00a0R\u00e9gis",
+      "role": "Gardien",
+      "realTeam": "Amiens",
+      "initCost": "19"
+    },
+    {
+      "id": "254",
+      "namePlayer": "Haddadi\u00a0Oussama",
+      "role": "Def. Lat.",
+      "realTeam": "Dijon",
+      "initCost": "13"
+    },
+    {
+      "id": "255",
+      "namePlayer": "Hamache\u00a0Yanis",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "256",
+      "namePlayer": "Hamari Traor\u00e9",
+      "role": "Def. Lat.",
+      "realTeam": "Rennes",
+      "initCost": "15"
+    },
+    {
+      "id": "257",
+      "namePlayer": "Hamouma\u00a0Romain",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "13"
+    },
+    {
+      "id": "258",
+      "namePlayer": "Harek\u00a0Fethi",
+      "role": "Def. Cen.",
+      "realTeam": "N\u00eemes",
+      "initCost": "6"
+    },
+    {
+      "id": "259",
+      "namePlayer": "Hassen\u00a0Mouez",
+      "role": "Gardien",
+      "realTeam": "Nice",
+      "initCost": "2"
+    },
+    {
+      "id": "260",
+      "namePlayer": "Henin\u00a0Yanis",
+      "role": "Gardien",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "261",
+      "namePlayer": "Henrichs\u00a0Benjamin",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "14"
+    },
+    {
+      "id": "262",
+      "namePlayer": "Herelle\u00a0Christophe",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "16"
+    },
+    {
+      "id": "263",
+      "namePlayer": "Hilton",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "18"
+    },
+    {
+      "id": "264",
+      "namePlayer": "Honorat\u00a0Franck",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "2"
+    },
+    {
+      "id": "265",
+      "namePlayer": "Hsissane\u00a0Abdelmalik",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "1"
+    },
+    {
+      "id": "266",
+      "namePlayer": "Hubocan\u00a0Tomas",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "3"
+    },
+    {
+      "id": "267",
+      "namePlayer": "Hunou\u00a0Adrien",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "8"
+    },
+    {
+      "id": "268",
+      "namePlayer": "Ikoko\u00a0Jordan",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "9"
+    },
+    {
+      "id": "269",
+      "namePlayer": "Imorou\u00a0Emmanuel",
+      "role": "Def. Cen.",
+      "realTeam": "Caen",
+      "initCost": "6"
+    },
+    {
+      "id": "270",
+      "namePlayer": "Isidor\u00a0Wilson",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "271",
+      "namePlayer": "Jakubech\u00a0Adam",
+      "role": "Gardien",
+      "realTeam": "Lille",
+      "initCost": "2"
+    },
+    {
+      "id": "272",
+      "namePlayer": "Jallet\u00a0Christophe",
+      "role": "Def. Lat.",
+      "realTeam": "Nice",
+      "initCost": "10"
+    },
+    {
+      "id": "273",
+      "namePlayer": "Janvier\u00a0Nicolas",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "1"
+    },
+    {
+      "id": "274",
+      "namePlayer": "Jean\u00a0Corentin",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "7"
+    },
+    {
+      "id": "275",
+      "namePlayer": "Jeannot\u00a0Benjamin",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "10"
+    },
+    {
+      "id": "276",
+      "namePlayer": "Jemerson",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "11"
+    },
+    {
+      "id": "277",
+      "namePlayer": "Jes\u00e9",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "5"
+    },
+    {
+      "id": "278",
+      "namePlayer": "Johan Larsson",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "10"
+    },
+    {
+      "id": "279",
+      "namePlayer": "Johansson\u00a0Jakob",
+      "role": "Mil. Def.",
+      "realTeam": "Rennes",
+      "initCost": "9"
+    },
+    {
+      "id": "280",
+      "namePlayer": "Johnsson\u00a0Karl-Johan",
+      "role": "Gardien",
+      "realTeam": "Guingamp",
+      "initCost": "13"
+    },
+    {
+      "id": "281",
+      "namePlayer": "Jonathan Ikone",
+      "role": "Mil. Off",
+      "realTeam": "Lille",
+      "initCost": "12"
+    },
+    {
+      "id": "282",
+      "namePlayer": "Jordan Siebatcheu",
+      "role": "Attaquant",
+      "realTeam": "Rennes",
+      "initCost": "10"
+    },
+    {
+      "id": "283",
+      "namePlayer": "Joseph\u00a0Evens",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "1"
+    },
+    {
+      "id": "284",
+      "namePlayer": "Jos\u00e9 Fonte",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "14"
+    },
+    {
+      "id": "285",
+      "namePlayer": "Jovanovic\u00a0Vukasin",
+      "role": "Def. Cen.",
+      "realTeam": "Bordeaux",
+      "initCost": "8"
+    },
+    {
+      "id": "286",
+      "namePlayer": "Jovetic\u00a0Stevan",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "287",
+      "namePlayer": "Julan\u00a0Natha\u00ebl",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "9"
+    },
+    {
+      "id": "288",
+      "namePlayer": "Jules Keita",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "8"
+    },
+    {
+      "id": "289",
+      "namePlayer": "Jullien\u00a0Christopher",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "10"
+    },
+    {
+      "id": "290",
+      "namePlayer": "Junior Sambia",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "12"
+    },
+    {
+      "id": "291",
+      "namePlayer": "J\u00falio Tavares",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "13"
+    },
+    {
+      "id": "292",
+      "namePlayer": "Kacaniklic\u00a0Alexander",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "6"
+    },
+    {
+      "id": "293",
+      "namePlayer": "Kaiboue\u00a0Kylian",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "294",
+      "namePlayer": "Kalifa Coulibaly",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "11"
+    },
+    {
+      "id": "295",
+      "namePlayer": "Kalu\u00a0Samuel",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "14"
+    },
+    {
+      "id": "296",
+      "namePlayer": "Kamano\u00a0Fran\u00e7ois",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "24"
+    },
+    {
+      "id": "297",
+      "namePlayer": "Kamara\u00a0Hassane",
+      "role": "Mil. Def.",
+      "realTeam": "Reims",
+      "initCost": "7"
+    },
+    {
+      "id": "298",
+      "namePlayer": "Kamara\u00a0Bingourou",
+      "role": "Gardien",
+      "realTeam": "Strasbourg",
+      "initCost": "8"
+    },
+    {
+      "id": "299",
+      "namePlayer": "Kamara\u00a0Boubacar",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "11"
+    },
+    {
+      "id": "300",
+      "namePlayer": "Kanga\u00a0Wilfried",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "8"
+    },
+    {
+      "id": "301",
+      "namePlayer": "Kara Mbodji\u00a0Serigne Modou",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "8"
+    },
+    {
+      "id": "302",
+      "namePlayer": "Karamoh\u00a0Yann",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "12"
+    },
+    {
+      "id": "303",
+      "namePlayer": "Kawashima\u00a0Eiji",
+      "role": "Gardien",
+      "realTeam": "Strasbourg",
+      "initCost": "3"
+    },
+    {
+      "id": "304",
+      "namePlayer": "Kayembe\u00a0Joris",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "4"
+    },
+    {
+      "id": "305",
+      "namePlayer": "Kehrer\u00a0Thilo",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "12"
+    },
+    {
+      "id": "306",
+      "namePlayer": "Kephren Thuram",
+      "role": "Mil. Def.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "307",
+      "namePlayer": "Kerbrat\u00a0Christophe",
+      "role": "Def. Cen.",
+      "realTeam": "Guingamp",
+      "initCost": "10"
+    },
+    {
+      "id": "308",
+      "namePlayer": "Khalid\u00a0Driss",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "309",
+      "namePlayer": "Khaoui\u00a0Saif-Eddine",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "12"
+    },
+    {
+      "id": "310",
+      "namePlayer": "Khazri\u00a0Wahbi",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "34"
+    },
+    {
+      "id": "311",
+      "namePlayer": "Kimpembe\u00a0Presnel",
+      "role": "Def. Cen.",
+      "realTeam": "Paris",
+      "initCost": "14"
+    },
+    {
+      "id": "312",
+      "namePlayer": "Koffi\u00a0Kouakou",
+      "role": "Gardien",
+      "realTeam": "Lille",
+      "initCost": "6"
+    },
+    {
+      "id": "313",
+      "namePlayer": "Koita\u00a0Bachibou",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "314",
+      "namePlayer": "Koita\u00a0Djegui",
+      "role": "Def. Cen.",
+      "realTeam": "Guingamp",
+      "initCost": "6"
+    },
+    {
+      "id": "315",
+      "namePlayer": "Kolo Muani\u00a0Randal",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "316",
+      "namePlayer": "Kolodziejczak\u00a0Timoth\u00e9e",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "17"
+    },
+    {
+      "id": "317",
+      "namePlayer": "Konan\u00a0Ghislain",
+      "role": "Def. Lat.",
+      "realTeam": "Reims",
+      "initCost": "16"
+    },
+    {
+      "id": "318",
+      "namePlayer": "Konat\u00e9\u00a0Moussa",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "8"
+    },
+    {
+      "id": "319",
+      "namePlayer": "Kone\u00a0Youssouf",
+      "role": "Def. Lat.",
+      "realTeam": "Lille",
+      "initCost": "2"
+    },
+    {
+      "id": "320",
+      "namePlayer": "Kon\u00e9\u00a0Lamine",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "13"
+    },
+    {
+      "id": "321",
+      "namePlayer": "Kouakou\u00a0Christian",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "6"
+    },
+    {
+      "id": "322",
+      "namePlayer": "Koubek\u00a0Tomas",
+      "role": "Gardien",
+      "realTeam": "Rennes",
+      "initCost": "10"
+    },
+    {
+      "id": "323",
+      "namePlayer": "Kound\u00e9\u00a0Jules",
+      "role": "Def. Cen.",
+      "realTeam": "Bordeaux",
+      "initCost": "17"
+    },
+    {
+      "id": "324",
+      "namePlayer": "Krafth\u00a0Emil",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "10"
+    },
+    {
+      "id": "325",
+      "namePlayer": "Krhin\u00a0Rene",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "9"
+    },
+    {
+      "id": "326",
+      "namePlayer": "Kurzawa\u00a0Rafal",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "5"
+    },
+    {
+      "id": "327",
+      "namePlayer": "Kurzawa\u00a0Layvin",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "5"
+    },
+    {
+      "id": "328",
+      "namePlayer": "Kwateng\u00a0Enock",
+      "role": "Def. Lat.",
+      "realTeam": "Nantes",
+      "initCost": "12"
+    },
+    {
+      "id": "329",
+      "namePlayer": "Kwon Chang-Hoon",
+      "role": "Mil. Off",
+      "realTeam": "Dijon",
+      "initCost": "6"
+    },
+    {
+      "id": "330",
+      "namePlayer": "Laborde\u00a0Gaetan",
+      "role": "Attaquant",
+      "realTeam": "Montpellier",
+      "initCost": "22"
+    },
+    {
+      "id": "331",
+      "namePlayer": "Lala\u00a0Kenny",
+      "role": "Def. Lat.",
+      "realTeam": "Strasbourg",
+      "initCost": "20"
+    },
+    {
+      "id": "332",
+      "namePlayer": "Landre\u00a0Lo\u00efck",
+      "role": "Def. Cen.",
+      "realTeam": "N\u00eemes",
+      "initCost": "13"
+    },
+    {
+      "id": "333",
+      "namePlayer": "Lasne\u00a0Paul",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "12"
+    },
+    {
+      "id": "334",
+      "namePlayer": "Lass Diarra",
+      "role": "Mil. Def.",
+      "realTeam": "Paris",
+      "initCost": "7"
+    },
+    {
+      "id": "335",
+      "namePlayer": "Lautoa\u00a0Wesley",
+      "role": "Def. Cen.",
+      "realTeam": "Dijon",
+      "initCost": "10"
+    },
+    {
+      "id": "336",
+      "namePlayer": "Le Bihan\u00a0Mickael",
+      "role": "Attaquant",
+      "realTeam": "Nice",
+      "initCost": "4"
+    },
+    {
+      "id": "337",
+      "namePlayer": "Le Tallec\u00a0Damien",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "22"
+    },
+    {
+      "id": "338",
+      "namePlayer": "Lea Siliki\u00a0James",
+      "role": "Mil. Def.",
+      "realTeam": "Rennes",
+      "initCost": "8"
+    },
+    {
+      "id": "339",
+      "namePlayer": "Lecomte\u00a0Benjamin",
+      "role": "Gardien",
+      "realTeam": "Montpellier",
+      "initCost": "25"
+    },
+    {
+      "id": "340",
+      "namePlayer": "Lees-Melou\u00a0Pierre",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "16"
+    },
+    {
+      "id": "341",
+      "namePlayer": "Lefort\u00a0Jordan",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "8"
+    },
+    {
+      "id": "342",
+      "namePlayer": "Lemaitre\u00a0Nicolas",
+      "role": "Gardien",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "343",
+      "namePlayer": "Lerager\u00a0Lukas",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "14"
+    },
+    {
+      "id": "344",
+      "namePlayer": "Lewczuk\u00a0Igor",
+      "role": "Def. Cen.",
+      "realTeam": "Bordeaux",
+      "initCost": "8"
+    },
+    {
+      "id": "345",
+      "namePlayer": "Leya Iseka\u00a0Aaron",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "11"
+    },
+    {
+      "id": "346",
+      "namePlayer": "Lienard\u00a0Dimitri",
+      "role": "Mil. Off",
+      "realTeam": "Strasbourg",
+      "initCost": "13"
+    },
+    {
+      "id": "347",
+      "namePlayer": "Ligali\u00a0Jonathan",
+      "role": "Gardien",
+      "realTeam": "Montpellier",
+      "initCost": "3"
+    },
+    {
+      "id": "348",
+      "namePlayer": "Limbombe\u00a0Anthony",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "11"
+    },
+    {
+      "id": "349",
+      "namePlayer": "Lionel Dias\u00a0Lucas",
+      "role": "Gardien",
+      "realTeam": "N\u00eemes",
+      "initCost": "1"
+    },
+    {
+      "id": "350",
+      "namePlayer": "Lloris\u00a0Gautier",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "351",
+      "namePlayer": "Loiodice\u00a0Enzo",
+      "role": "Mil. Def.",
+      "realTeam": "Dijon",
+      "initCost": "9"
+    },
+    {
+      "id": "352",
+      "namePlayer": "Lopez\u00a0Maxime",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "11"
+    },
+    {
+      "id": "353",
+      "namePlayer": "Louis\u00a0Jeff",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "3"
+    },
+    {
+      "id": "354",
+      "namePlayer": "Louza\u00a0Imran",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "355",
+      "namePlayer": "Lucas Evangelista",
+      "role": "Mil. Off",
+      "realTeam": "Nantes",
+      "initCost": "8"
+    },
+    {
+      "id": "356",
+      "namePlayer": "Lucas Lima",
+      "role": "Def. Lat.",
+      "realTeam": "Nantes",
+      "initCost": "16"
+    },
+    {
+      "id": "357",
+      "namePlayer": "Luiz Araujo",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "10"
+    },
+    {
+      "id": "358",
+      "namePlayer": "Luiz Gustavo",
+      "role": "Mil. Def.",
+      "realTeam": "Marseille",
+      "initCost": "15"
+    },
+    {
+      "id": "359",
+      "namePlayer": "Lybohy\u00a0Herve",
+      "role": "Def. Cen.",
+      "realTeam": "N\u00eemes",
+      "initCost": "11"
+    },
+    {
+      "id": "360",
+      "namePlayer": "M'Bengue\u00a0Cheikh",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "5"
+    },
+    {
+      "id": "361",
+      "namePlayer": "M'Vila\u00a0Yann",
+      "role": "Mil. Def.",
+      "realTeam": "Saint Etienne",
+      "initCost": "18"
+    },
+    {
+      "id": "362",
+      "namePlayer": "Mahou\u00a0Hicham",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "2"
+    },
+    {
+      "id": "363",
+      "namePlayer": "Maignan\u00a0Mike",
+      "role": "Gardien",
+      "realTeam": "Lille",
+      "initCost": "24"
+    },
+    {
+      "id": "364",
+      "namePlayer": "Majeed Waris",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "10"
+    },
+    {
+      "id": "365",
+      "namePlayer": "Makengo\u00a0Jean-Victor",
+      "role": "Mil. Def.",
+      "realTeam": "Nice",
+      "initCost": "8"
+    },
+    {
+      "id": "366",
+      "namePlayer": "Manceau\u00a0Vincent",
+      "role": "Def. Lat.",
+      "realTeam": "Angers",
+      "initCost": "8"
+    },
+    {
+      "id": "367",
+      "namePlayer": "Mancini\u00a0Anthony",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "1"
+    },
+    {
+      "id": "368",
+      "namePlayer": "Mandanda\u00a0Over",
+      "role": "Gardien",
+      "realTeam": "Bordeaux",
+      "initCost": "1"
+    },
+    {
+      "id": "369",
+      "namePlayer": "Mandanda\u00a0Steve",
+      "role": "Gardien",
+      "realTeam": "Marseille",
+      "initCost": "16"
+    },
+    {
+      "id": "370",
+      "namePlayer": "Mandrea\u00a0Anthony",
+      "role": "Gardien",
+      "realTeam": "Angers",
+      "initCost": "2"
+    },
+    {
+      "id": "371",
+      "namePlayer": "Mangani\u00a0Thomas",
+      "role": "Mil. Def.",
+      "realTeam": "Angers",
+      "initCost": "12"
+    },
+    {
+      "id": "372",
+      "namePlayer": "Manu Garc\u00eda",
+      "role": "Mil. Off",
+      "realTeam": "Toulouse",
+      "initCost": "12"
+    },
+    {
+      "id": "373",
+      "namePlayer": "Manzala\u00a0Harrison",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "6"
+    },
+    {
+      "id": "374",
+      "namePlayer": "Maolida\u00a0Myziane",
+      "role": "Attaquant",
+      "realTeam": "Nice",
+      "initCost": "7"
+    },
+    {
+      "id": "375",
+      "namePlayer": "Marasovic\u00a0Sacha",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "376",
+      "namePlayer": "Marcelo",
+      "role": "Def. Cen.",
+      "realTeam": "Lyon",
+      "initCost": "16"
+    },
+    {
+      "id": "377",
+      "namePlayer": "Mari\u00e9\u00a0Jordan",
+      "role": "Mil. Def.",
+      "realTeam": "Dijon",
+      "initCost": "8"
+    },
+    {
+      "id": "378",
+      "namePlayer": "Marquinhos",
+      "role": "Def. Cen.",
+      "realTeam": "Paris",
+      "initCost": "24"
+    },
+    {
+      "id": "379",
+      "namePlayer": "Martin\u00a0Marvin",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "11"
+    },
+    {
+      "id": "380",
+      "namePlayer": "Martin\u00a0Jonas",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "22"
+    },
+    {
+      "id": "381",
+      "namePlayer": "Martinez\u00a0Pablo",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "19"
+    },
+    {
+      "id": "382",
+      "namePlayer": "Mar\u00e7al",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "9"
+    },
+    {
+      "id": "383",
+      "namePlayer": "Massengo\u00a0Han-Noah",
+      "role": "Mil. Def.",
+      "realTeam": "Monaco",
+      "initCost": "7"
+    },
+    {
+      "id": "384",
+      "namePlayer": "Mathurin Sakho",
+      "role": "Def. Cen.",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "385",
+      "namePlayer": "Mbae\u00a0Safwan",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "386",
+      "namePlayer": "Mbapp\u00e9\u00a0Kylian",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "44"
+    },
+    {
+      "id": "387",
+      "namePlayer": "Mbe Soh\u00a0Lo\u00efc",
+      "role": "Def. Cen.",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "388",
+      "namePlayer": "Mbemba\u00a0Nolan",
+      "role": "Mil. Def.",
+      "realTeam": "Reims",
+      "initCost": "5"
+    },
+    {
+      "id": "389",
+      "namePlayer": "Mbengue\u00a0Adama",
+      "role": "Def. Lat.",
+      "realTeam": "Caen",
+      "initCost": "9"
+    },
+    {
+      "id": "390",
+      "namePlayer": "Mbia\u00a0St\u00e9phane",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "7"
+    },
+    {
+      "id": "391",
+      "namePlayer": "Mboula\u00a0Jordi",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "6"
+    },
+    {
+      "id": "392",
+      "namePlayer": "Mendoza\u00a0John Stiven",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "10"
+    },
+    {
+      "id": "393",
+      "namePlayer": "Mendy\u00a0Alexandre",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "5"
+    },
+    {
+      "id": "394",
+      "namePlayer": "Mendy\u00a0Ferland",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "12"
+    },
+    {
+      "id": "395",
+      "namePlayer": "Mendy\u00a0Batista",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "2"
+    },
+    {
+      "id": "396",
+      "namePlayer": "Mendy\u00a0Edouard",
+      "role": "Gardien",
+      "realTeam": "Reims",
+      "initCost": "26"
+    },
+    {
+      "id": "397",
+      "namePlayer": "Meunier\u00a0Thomas",
+      "role": "Def. Lat.",
+      "realTeam": "Paris",
+      "initCost": "24"
+    },
+    {
+      "id": "398",
+      "namePlayer": "Mexer",
+      "role": "Def. Cen.",
+      "realTeam": "Rennes",
+      "initCost": "12"
+    },
+    {
+      "id": "399",
+      "namePlayer": "Miazga\u00a0Matt",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "8"
+    },
+    {
+      "id": "400",
+      "namePlayer": "Miguel\u00a0Florian",
+      "role": "Def. Lat.",
+      "realTeam": "N\u00eemes",
+      "initCost": "9"
+    },
+    {
+      "id": "401",
+      "namePlayer": "Mitroglou\u00a0Kostas",
+      "role": "Attaquant",
+      "realTeam": "Marseille",
+      "initCost": "11"
+    },
+    {
+      "id": "402",
+      "namePlayer": "Mitrovic\u00a0Stefan",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "11"
+    },
+    {
+      "id": "403",
+      "namePlayer": "Mollet\u00a0Florent",
+      "role": "Mil. Off",
+      "realTeam": "Montpellier",
+      "initCost": "21"
+    },
+    {
+      "id": "404",
+      "namePlayer": "Monconduit\u00a0Thomas",
+      "role": "Mil. Def.",
+      "realTeam": "Amiens",
+      "initCost": "13"
+    },
+    {
+      "id": "405",
+      "namePlayer": "Monnet-Paquet\u00a0K\u00e9vin",
+      "role": "Attaquant",
+      "realTeam": "Saint Etienne",
+      "initCost": "10"
+    },
+    {
+      "id": "406",
+      "namePlayer": "Moreira\u00a0Steven",
+      "role": "Def. Lat.",
+      "realTeam": "Toulouse",
+      "initCost": "8"
+    },
+    {
+      "id": "407",
+      "namePlayer": "Morel\u00a0J\u00e9r\u00e9my",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "9"
+    },
+    {
+      "id": "408",
+      "namePlayer": "Mothiba\u00a0Lebo",
+      "role": "Attaquant",
+      "realTeam": "Strasbourg",
+      "initCost": "24"
+    },
+    {
+      "id": "409",
+      "namePlayer": "Mouanga\u00a0Kevin",
+      "role": "Def. Cen.",
+      "realTeam": "Angers",
+      "initCost": "1"
+    },
+    {
+      "id": "410",
+      "namePlayer": "Moubandje\u00a0Fran\u00e7ois",
+      "role": "Def. Lat.",
+      "realTeam": "Toulouse",
+      "initCost": "11"
+    },
+    {
+      "id": "411",
+      "namePlayer": "Moulin\u00a0Jessy",
+      "role": "Gardien",
+      "realTeam": "Saint Etienne",
+      "initCost": "9"
+    },
+    {
+      "id": "412",
+      "namePlayer": "Moutoussamy\u00a0Samuel",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "9"
+    },
+    {
+      "id": "413",
+      "namePlayer": "Mubele\u00a0Firmin Ndombe",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "11"
+    },
+    {
+      "id": "414",
+      "namePlayer": "M\u00e9tanire\u00a0Romain",
+      "role": "Def. Lat.",
+      "realTeam": "Reims",
+      "initCost": "6"
+    },
+    {
+      "id": "415",
+      "namePlayer": "N'Doram\u00a0Kevin",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "416",
+      "namePlayer": "N'Doye\u00a0Cheikh",
+      "role": "Mil. Def.",
+      "realTeam": "Angers",
+      "initCost": "12"
+    },
+    {
+      "id": "417",
+      "namePlayer": "N'Gbakoto\u00a0Yeni",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "418",
+      "namePlayer": "N'Goumou Minpol\u00a0Nathan",
+      "role": "Mil. Off",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "419",
+      "namePlayer": "N'Jie\u00a0Clinton",
+      "role": "Attaquant",
+      "realTeam": "Marseille",
+      "initCost": "9"
+    },
+    {
+      "id": "420",
+      "namePlayer": "N'Soki\u00a0Stanley",
+      "role": "Mil. Def.",
+      "realTeam": "Paris",
+      "initCost": "11"
+    },
+    {
+      "id": "421",
+      "namePlayer": "NDombele\u00a0Tanguy",
+      "role": "Mil. Def.",
+      "realTeam": "Lyon",
+      "initCost": "16"
+    },
+    {
+      "id": "422",
+      "namePlayer": "Naldo",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "11"
+    },
+    {
+      "id": "423",
+      "namePlayer": "Ndiaye\u00a0Ousseynou",
+      "role": "Mil. Off",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "424",
+      "namePlayer": "Ndom\u00a0Aly",
+      "role": "Mil. Def.",
+      "realTeam": "Caen",
+      "initCost": "10"
+    },
+    {
+      "id": "425",
+      "namePlayer": "Ndong\u00a0Didier",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "12"
+    },
+    {
+      "id": "426",
+      "namePlayer": "Ndour\u00a0Abdallah",
+      "role": "Def. Lat.",
+      "realTeam": "Strasbourg",
+      "initCost": "4"
+    },
+    {
+      "id": "427",
+      "namePlayer": "Neymar",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "52"
+    },
+    {
+      "id": "428",
+      "namePlayer": "Ngamukol\u00a0Anatole",
+      "role": "Attaquant",
+      "realTeam": "Reims",
+      "initCost": "5"
+    },
+    {
+      "id": "429",
+      "namePlayer": "Ngando\u00a0Jean-Claude",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "430",
+      "namePlayer": "Ngom\u00a0Santy",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "6"
+    },
+    {
+      "id": "431",
+      "namePlayer": "Niang\u00a0M'Baye",
+      "role": "Attaquant",
+      "realTeam": "Rennes",
+      "initCost": "11"
+    },
+    {
+      "id": "432",
+      "namePlayer": "Nilor\u00a0Michael",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "1"
+    },
+    {
+      "id": "433",
+      "namePlayer": "Nkunku\u00a0Christopher",
+      "role": "Mil. Off",
+      "realTeam": "Paris",
+      "initCost": "12"
+    },
+    {
+      "id": "434",
+      "namePlayer": "Nordin\u00a0Arnaud",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "8"
+    },
+    {
+      "id": "435",
+      "namePlayer": "Ntumba\u00a0Levi",
+      "role": "Gardien",
+      "realTeam": "Dijon",
+      "initCost": "1"
+    },
+    {
+      "id": "436",
+      "namePlayer": "Nuno da Costa",
+      "role": "Attaquant",
+      "realTeam": "Strasbourg",
+      "initCost": "14"
+    },
+    {
+      "id": "437",
+      "namePlayer": "Nyamsi\u00a0Gerzino",
+      "role": "Def. Cen.",
+      "realTeam": "Rennes",
+      "initCost": "1"
+    },
+    {
+      "id": "438",
+      "namePlayer": "Ocampos\u00a0Lucas",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "16"
+    },
+    {
+      "id": "439",
+      "namePlayer": "Olliero\u00a0Alexandre",
+      "role": "Gardien",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "440",
+      "namePlayer": "Oniangu\u00e9\u00a0Prince",
+      "role": "Mil. Def.",
+      "realTeam": "Caen",
+      "initCost": "14"
+    },
+    {
+      "id": "441",
+      "namePlayer": "Osei Yaw\u00a0Derick",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "442",
+      "namePlayer": "Otero\u00a0Juan Ferney",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "10"
+    },
+    {
+      "id": "443",
+      "namePlayer": "Ot\u00e1vio",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "13"
+    },
+    {
+      "id": "444",
+      "namePlayer": "Oudin\u00a0Remi",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "12"
+    },
+    {
+      "id": "445",
+      "namePlayer": "Ouro-Sama\u00a0Hakim",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "1"
+    },
+    {
+      "id": "446",
+      "namePlayer": "Oyongo\u00a0Ambroise",
+      "role": "Def. Lat.",
+      "realTeam": "Montpellier",
+      "initCost": "14"
+    },
+    {
+      "id": "447",
+      "namePlayer": "Pablo",
+      "role": "Def. Cen.",
+      "realTeam": "Bordeaux",
+      "initCost": "20"
+    },
+    {
+      "id": "448",
+      "namePlayer": "Pajot\u00a0Vincent",
+      "role": "Mil. Def.",
+      "realTeam": "Angers",
+      "initCost": "9"
+    },
+    {
+      "id": "449",
+      "namePlayer": "Palencia\u00a0Sergi",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "11"
+    },
+    {
+      "id": "450",
+      "namePlayer": "Pallois\u00a0Nicolas",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "9"
+    },
+    {
+      "id": "451",
+      "namePlayer": "Panos\u00a0Mickael",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "5"
+    },
+    {
+      "id": "452",
+      "namePlayer": "Panzo\u00a0Jonathan",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "453",
+      "namePlayer": "Pape Cheikh",
+      "role": "Mil. Def.",
+      "realTeam": "Lyon",
+      "initCost": "9"
+    },
+    {
+      "id": "454",
+      "namePlayer": "Paquiez\u00a0Gaetan",
+      "role": "Def. Lat.",
+      "realTeam": "N\u00eemes",
+      "initCost": "10"
+    },
+    {
+      "id": "455",
+      "namePlayer": "Passi\u00a0Bryan",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "456",
+      "namePlayer": "Pavlovic\u00a0Mateo",
+      "role": "Def. Cen.",
+      "realTeam": "Angers",
+      "initCost": "12"
+    },
+    {
+      "id": "457",
+      "namePlayer": "Payet\u00a0Dimitri",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "23"
+    },
+    {
+      "id": "458",
+      "namePlayer": "Pedro Mendes",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "20"
+    },
+    {
+      "id": "459",
+      "namePlayer": "Pedro Rebocho",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "11"
+    },
+    {
+      "id": "460",
+      "namePlayer": "Pellegri\u00a0Pietro",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "7"
+    },
+    {
+      "id": "461",
+      "namePlayer": "Pellenard\u00a0Th\u00e9o",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "5"
+    },
+    {
+      "id": "462",
+      "namePlayer": "Pelletier\u00a0Louis",
+      "role": "Gardien",
+      "realTeam": "Strasbourg",
+      "initCost": "1"
+    },
+    {
+      "id": "463",
+      "namePlayer": "Pelmard\u00a0Andy",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "464",
+      "namePlayer": "Pel\u00e9\u00a0Yohann",
+      "role": "Gardien",
+      "realTeam": "Marseille",
+      "initCost": "11"
+    },
+    {
+      "id": "465",
+      "namePlayer": "Pel\u00e9",
+      "role": "Mil. Def.",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "466",
+      "namePlayer": "Pepe\u00a0Nicolas",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "38"
+    },
+    {
+      "id": "467",
+      "namePlayer": "Perrin\u00a0Loic",
+      "role": "Def. Cen.",
+      "realTeam": "Saint Etienne",
+      "initCost": "11"
+    },
+    {
+      "id": "468",
+      "namePlayer": "Perrin\u00a0Lucas",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "469",
+      "namePlayer": "Petric\u00a0Denis",
+      "role": "Gardien",
+      "realTeam": "Guingamp",
+      "initCost": "6"
+    },
+    {
+      "id": "470",
+      "namePlayer": "Phaeton\u00a0Matthias",
+      "role": "Mil. Off",
+      "realTeam": "Guingamp",
+      "initCost": "1"
+    },
+    {
+      "id": "471",
+      "namePlayer": "Philiponeau\u00a0Alexandre",
+      "role": "Mil. Def.",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "472",
+      "namePlayer": "Phiri\u00a0Lebogang",
+      "role": "Mil. Def.",
+      "realTeam": "Guingamp",
+      "initCost": "8"
+    },
+    {
+      "id": "473",
+      "namePlayer": "Piechocki\u00a0Virgile",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "1"
+    },
+    {
+      "id": "474",
+      "namePlayer": "Pied\u00a0J\u00e9r\u00e9my",
+      "role": "Def. Lat.",
+      "realTeam": "Lille",
+      "initCost": "7"
+    },
+    {
+      "id": "475",
+      "namePlayer": "Pierre Gabriel\u00a0Ronael",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "476",
+      "namePlayer": "Pinson\u00a0Virgile",
+      "role": "Attaquant",
+      "realTeam": "Reims",
+      "initCost": "3"
+    },
+    {
+      "id": "477",
+      "namePlayer": "Pintor\u00a0Lenny",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "4"
+    },
+    {
+      "id": "478",
+      "namePlayer": "Plasil\u00a0Jaroslav",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "13"
+    },
+    {
+      "id": "479",
+      "namePlayer": "Poha\u00a0Denis",
+      "role": "Mil. Def.",
+      "realTeam": "Rennes",
+      "initCost": "4"
+    },
+    {
+      "id": "480",
+      "namePlayer": "Polomat\u00a0Pierre-Yves",
+      "role": "Def. Lat.",
+      "realTeam": "Saint Etienne",
+      "initCost": "5"
+    },
+    {
+      "id": "481",
+      "namePlayer": "Porsan-Clemente\u00a0J\u00e9r\u00e9mie",
+      "role": "Attaquant",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "482",
+      "namePlayer": "Postolachi\u00a0Virgiliu",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "483",
+      "namePlayer": "Poundj\u00e9\u00a0Maxime",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "12"
+    },
+    {
+      "id": "484",
+      "namePlayer": "Poussin\u00a0Gaetan",
+      "role": "Gardien",
+      "realTeam": "Bordeaux",
+      "initCost": "1"
+    },
+    {
+      "id": "485",
+      "namePlayer": "Prince",
+      "role": "Def. Cen.",
+      "realTeam": "Amiens",
+      "initCost": "11"
+    },
+    {
+      "id": "486",
+      "namePlayer": "Prior\u00a0Jerome",
+      "role": "Gardien",
+      "realTeam": "Bordeaux",
+      "initCost": "7"
+    },
+    {
+      "id": "487",
+      "namePlayer": "Puyo\u00a0Lo\u00efc",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "5"
+    },
+    {
+      "id": "488",
+      "namePlayer": "P\u00edriz\u00a0Facundo",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "7"
+    },
+    {
+      "id": "489",
+      "namePlayer": "Rabei\u00a0Reda",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "490",
+      "namePlayer": "Rabiot\u00a0Adrien",
+      "role": "Mil. Def.",
+      "realTeam": "Paris",
+      "initCost": "25"
+    },
+    {
+      "id": "491",
+      "namePlayer": "Racioppi\u00a0Anthony",
+      "role": "Gardien",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "492",
+      "namePlayer": "Radonjic\u00a0Nemanja",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "8"
+    },
+    {
+      "id": "493",
+      "namePlayer": "Rafael",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "14"
+    },
+    {
+      "id": "494",
+      "namePlayer": "Rafael Le\u00e3o",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "9"
+    },
+    {
+      "id": "495",
+      "namePlayer": "Raggi\u00a0Andrea",
+      "role": "Def. Cen.",
+      "realTeam": "Monaco",
+      "initCost": "9"
+    },
+    {
+      "id": "496",
+      "namePlayer": "Rami\u00a0Adil",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "11"
+    },
+    {
+      "id": "497",
+      "namePlayer": "Reine-Ad\u00e9la\u00efde\u00a0Jeff",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "10"
+    },
+    {
+      "id": "498",
+      "namePlayer": "Remy\u00a0Lo\u00efc",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "10"
+    },
+    {
+      "id": "499",
+      "namePlayer": "Repas\u00a0Jan",
+      "role": "Mil. Off",
+      "realTeam": "Caen",
+      "initCost": "5"
+    },
+    {
+      "id": "500",
+      "namePlayer": "Reulet\u00a0Paul",
+      "role": "Gardien",
+      "realTeam": "Caen",
+      "initCost": "3"
+    },
+    {
+      "id": "501",
+      "namePlayer": "Reynet\u00a0Baptiste",
+      "role": "Gardien",
+      "realTeam": "Toulouse",
+      "initCost": "14"
+    },
+    {
+      "id": "502",
+      "namePlayer": "Rimane\u00a0Kevin",
+      "role": "Def. Cen.",
+      "realTeam": "Paris",
+      "initCost": "1"
+    },
+    {
+      "id": "503",
+      "namePlayer": "Ripart\u00a0Renaud",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "17"
+    },
+    {
+      "id": "504",
+      "namePlayer": "Robert Navarro",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "505",
+      "namePlayer": "Rocchia\u00a0Christopher",
+      "role": "Def. Lat.",
+      "realTeam": "Marseille",
+      "initCost": "1"
+    },
+    {
+      "id": "506",
+      "namePlayer": "Rocha Santos\u00a0Kenny",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "5"
+    },
+    {
+      "id": "507",
+      "namePlayer": "Rodelin\u00a0Ronny",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "508",
+      "namePlayer": "Rolando",
+      "role": "Def. Cen.",
+      "realTeam": "Marseille",
+      "initCost": "9"
+    },
+    {
+      "id": "509",
+      "namePlayer": "Romao\u00a0Jacques-Alaixys",
+      "role": "Mil. Def.",
+      "realTeam": "Reims",
+      "initCost": "16"
+    },
+    {
+      "id": "510",
+      "namePlayer": "Rongier\u00a0Valentin",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "13"
+    },
+    {
+      "id": "511",
+      "namePlayer": "Rony Lopes",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "13"
+    },
+    {
+      "id": "512",
+      "namePlayer": "Rosier\u00a0Valentin",
+      "role": "Def. Lat.",
+      "realTeam": "Dijon",
+      "initCost": "10"
+    },
+    {
+      "id": "513",
+      "namePlayer": "Roux\u00a0Nolan",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "514",
+      "namePlayer": "Ruffier\u00a0St\u00e9phane",
+      "role": "Gardien",
+      "realTeam": "Saint Etienne",
+      "initCost": "19"
+    },
+    {
+      "id": "515",
+      "namePlayer": "Rui Fonte",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "9"
+    },
+    {
+      "id": "516",
+      "namePlayer": "Ruiz\u00a0Percy",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "517",
+      "namePlayer": "Rutter\u00a0Georginio",
+      "role": "Mil. Off",
+      "realTeam": "Rennes",
+      "initCost": "1"
+    },
+    {
+      "id": "518",
+      "namePlayer": "R\u00fanarsson\u00a0R\u00fanar Alex",
+      "role": "Gardien",
+      "realTeam": "Dijon",
+      "initCost": "9"
+    },
+    {
+      "id": "519",
+      "namePlayer": "Saadi\u00a0Idriss",
+      "role": "Attaquant",
+      "realTeam": "Strasbourg",
+      "initCost": "7"
+    },
+    {
+      "id": "520",
+      "namePlayer": "Sabaly\u00a0Youssouf",
+      "role": "Def. Lat.",
+      "realTeam": "Bordeaux",
+      "initCost": "9"
+    },
+    {
+      "id": "521",
+      "namePlayer": "Sacko\u00a0Ihsan",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "7"
+    },
+    {
+      "id": "522",
+      "namePlayer": "Sadzoute\u00a0Scotty",
+      "role": "Attaquant",
+      "realTeam": "Lille",
+      "initCost": "1"
+    },
+    {
+      "id": "523",
+      "namePlayer": "Said\u00a0Wesley",
+      "role": "Attaquant",
+      "realTeam": "Dijon",
+      "initCost": "10"
+    },
+    {
+      "id": "524",
+      "namePlayer": "Saint-Maximin\u00a0Allan",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "18"
+    },
+    {
+      "id": "525",
+      "namePlayer": "Sakai\u00a0Hiroki",
+      "role": "Def. Lat.",
+      "realTeam": "Marseille",
+      "initCost": "13"
+    },
+    {
+      "id": "526",
+      "namePlayer": "Sala\u00a0Emiliano",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "30"
+    },
+    {
+      "id": "527",
+      "namePlayer": "Saliba\u00a0William",
+      "role": "Def. Cen.",
+      "realTeam": "Saint Etienne",
+      "initCost": "5"
+    },
+    {
+      "id": "528",
+      "namePlayer": "Salibur\u00a0Yannis",
+      "role": "Mil. Off",
+      "realTeam": "Saint Etienne",
+      "initCost": "14"
+    },
+    {
+      "id": "529",
+      "namePlayer": "Saman Ghoddos",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "12"
+    },
+    {
+      "id": "530",
+      "namePlayer": "Samba\u00a0Brice",
+      "role": "Gardien",
+      "realTeam": "Caen",
+      "initCost": "19"
+    },
+    {
+      "id": "531",
+      "namePlayer": "Sammaritano\u00a0Frederic",
+      "role": "Mil. Off",
+      "realTeam": "Dijon",
+      "initCost": "9"
+    },
+    {
+      "id": "532",
+      "namePlayer": "Sangar\u00e9\u00a0Ibrahim",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "8"
+    },
+    {
+      "id": "533",
+      "namePlayer": "Sankhar\u00e9\u00a0Younousse",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "16"
+    },
+    {
+      "id": "534",
+      "namePlayer": "Sankoh\u00a0Baissama",
+      "role": "Mil. Def.",
+      "realTeam": "Caen",
+      "initCost": "6"
+    },
+    {
+      "id": "535",
+      "namePlayer": "Sanogo\u00a0Yaya",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "7"
+    },
+    {
+      "id": "536",
+      "namePlayer": "Sanson\u00a0Morgan",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "22"
+    },
+    {
+      "id": "537",
+      "namePlayer": "Sanson\u00a0Killian",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "538",
+      "namePlayer": "Santamar\u00eda\u00a0Baptiste",
+      "role": "Mil. Def.",
+      "realTeam": "Angers",
+      "initCost": "11"
+    },
+    {
+      "id": "539",
+      "namePlayer": "Sarr\u00a0Bouna",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "14"
+    },
+    {
+      "id": "540",
+      "namePlayer": "Sarr\u00a0Malang",
+      "role": "Def. Cen.",
+      "realTeam": "Nice",
+      "initCost": "15"
+    },
+    {
+      "id": "541",
+      "namePlayer": "Sarr\u00a0Ismaila",
+      "role": "Attaquant",
+      "realTeam": "Rennes",
+      "initCost": "25"
+    },
+    {
+      "id": "542",
+      "namePlayer": "Savanier\u00a0T\u00e9ji",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "20"
+    },
+    {
+      "id": "543",
+      "namePlayer": "Segarel\u00a0Stanley",
+      "role": "Attaquant",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "544",
+      "namePlayer": "Selnaes\u00a0Ole",
+      "role": "Mil. Def.",
+      "realTeam": "Saint Etienne",
+      "initCost": "17"
+    },
+    {
+      "id": "545",
+      "namePlayer": "Sels\u00a0Matz",
+      "role": "Gardien",
+      "realTeam": "Strasbourg",
+      "initCost": "17"
+    },
+    {
+      "id": "546",
+      "namePlayer": "Serrano\u00a0Julien",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "1"
+    },
+    {
+      "id": "547",
+      "namePlayer": "Sertic\u00a0Gr\u00e9gory",
+      "role": "Mil. Def.",
+      "realTeam": "Marseille",
+      "initCost": "8"
+    },
+    {
+      "id": "548",
+      "namePlayer": "Sheyi Ojo",
+      "role": "Mil. Off",
+      "realTeam": "Reims",
+      "initCost": "9"
+    },
+    {
+      "id": "549",
+      "namePlayer": "Shoji\u00a0Gen",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "10"
+    },
+    {
+      "id": "550",
+      "namePlayer": "Sidibe\u00a0Djibril",
+      "role": "Def. Lat.",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "551",
+      "namePlayer": "Sidibe\u00a0Kalidou",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "552",
+      "namePlayer": "Sigthorsson\u00a0Kolbeinn",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "553",
+      "namePlayer": "Simakan\u00a0Mohamed",
+      "role": "Def. Cen.",
+      "realTeam": "Strasbourg",
+      "initCost": "1"
+    },
+    {
+      "id": "554",
+      "namePlayer": "Sissoko\u00a0Ibrahima",
+      "role": "Mil. Def.",
+      "realTeam": "Strasbourg",
+      "initCost": "12"
+    },
+    {
+      "id": "555",
+      "namePlayer": "Skhiri\u00a0Ellyes",
+      "role": "Mil. Def.",
+      "realTeam": "Montpellier",
+      "initCost": "20"
+    },
+    {
+      "id": "556",
+      "namePlayer": "Skuletic\u00a0Petar",
+      "role": "Attaquant",
+      "realTeam": "Montpellier",
+      "initCost": "10"
+    },
+    {
+      "id": "557",
+      "namePlayer": "Sliti\u00a0Naim",
+      "role": "Mil. Off",
+      "realTeam": "Dijon",
+      "initCost": "15"
+    },
+    {
+      "id": "558",
+      "namePlayer": "Solet\u00a0Oumar",
+      "role": "Def. Cen.",
+      "realTeam": "Lyon",
+      "initCost": "1"
+    },
+    {
+      "id": "559",
+      "namePlayer": "Sorbon\u00a0J\u00e9r\u00e9my",
+      "role": "Def. Cen.",
+      "realTeam": "Guingamp",
+      "initCost": "10"
+    },
+    {
+      "id": "560",
+      "namePlayer": "Soumaoro\u00a0Adama",
+      "role": "Def. Cen.",
+      "realTeam": "Lille",
+      "initCost": "15"
+    },
+    {
+      "id": "561",
+      "namePlayer": "Soumare\u00a0Boubakary",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "9"
+    },
+    {
+      "id": "562",
+      "namePlayer": "Sourzac\u00a0Martin",
+      "role": "Gardien",
+      "realTeam": "N\u00eemes",
+      "initCost": "1"
+    },
+    {
+      "id": "563",
+      "namePlayer": "Srarfi\u00a0Bassem",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "11"
+    },
+    {
+      "id": "564",
+      "namePlayer": "Steven Fortes",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "6"
+    },
+    {
+      "id": "565",
+      "namePlayer": "Strootman\u00a0Kevin",
+      "role": "Mil. Def.",
+      "realTeam": "Marseille",
+      "initCost": "14"
+    },
+    {
+      "id": "566",
+      "namePlayer": "Subasic\u00a0Danijel",
+      "role": "Gardien",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "567",
+      "namePlayer": "Subotic\u00a0Neven",
+      "role": "Def. Cen.",
+      "realTeam": "Saint Etienne",
+      "initCost": "7"
+    },
+    {
+      "id": "568",
+      "namePlayer": "Suk Hyun-Jun",
+      "role": "Attaquant",
+      "realTeam": "Reims",
+      "initCost": "9"
+    },
+    {
+      "id": "569",
+      "namePlayer": "Su\u00e1rez\u00a0Math\u00edas",
+      "role": "Def. Lat.",
+      "realTeam": "Montpellier",
+      "initCost": "8"
+    },
+    {
+      "id": "570",
+      "namePlayer": "Sy\u00a0Seydou",
+      "role": "Gardien",
+      "realTeam": "Monaco",
+      "initCost": "2"
+    },
+    {
+      "id": "571",
+      "namePlayer": "Sy\u00a0Sanasi",
+      "role": "Def. Lat.",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "572",
+      "namePlayer": "Sylla\u00a0Issiaga",
+      "role": "Def. Lat.",
+      "realTeam": "Toulouse",
+      "initCost": "10"
+    },
+    {
+      "id": "573",
+      "namePlayer": "Sylla\u00a0Moussa",
+      "role": "Attaquant",
+      "realTeam": "Monaco",
+      "initCost": "8"
+    },
+    {
+      "id": "574",
+      "namePlayer": "Sylvestre\u00a0Eddy",
+      "role": "Mil. Off",
+      "realTeam": "Nice",
+      "initCost": "1"
+    },
+    {
+      "id": "575",
+      "namePlayer": "Tabanou\u00a0Franck",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "8"
+    },
+    {
+      "id": "576",
+      "namePlayer": "Tait\u00a0Flavien",
+      "role": "Mil. Off",
+      "realTeam": "Angers",
+      "initCost": "17"
+    },
+    {
+      "id": "577",
+      "namePlayer": "Tameze\u00a0Adrien",
+      "role": "Mil. Def.",
+      "realTeam": "Nice",
+      "initCost": "15"
+    },
+    {
+      "id": "578",
+      "namePlayer": "Taoui\u00a0Adil",
+      "role": "Attaquant",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "579",
+      "namePlayer": "Tatarusanu\u00a0Ciprian",
+      "role": "Gardien",
+      "realTeam": "Nantes",
+      "initCost": "18"
+    },
+    {
+      "id": "580",
+      "namePlayer": "Tchokounte\u00a0Malik",
+      "role": "Attaquant",
+      "realTeam": "Caen",
+      "initCost": "9"
+    },
+    {
+      "id": "581",
+      "namePlayer": "Tchouameni\u00a0Aurelien",
+      "role": "Mil. Def.",
+      "realTeam": "Bordeaux",
+      "initCost": "9"
+    },
+    {
+      "id": "582",
+      "namePlayer": "Terrier\u00a0Martin",
+      "role": "Mil. Off",
+      "realTeam": "Lyon",
+      "initCost": "13"
+    },
+    {
+      "id": "583",
+      "namePlayer": "Tete\u00a0Kenny",
+      "role": "Def. Lat.",
+      "realTeam": "Lyon",
+      "initCost": "7"
+    },
+    {
+      "id": "584",
+      "namePlayer": "Thauvin\u00a0Florian",
+      "role": "Mil. Off",
+      "realTeam": "Marseille",
+      "initCost": "41"
+    },
+    {
+      "id": "585",
+      "namePlayer": "Thiago Maia",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "11"
+    },
+    {
+      "id": "586",
+      "namePlayer": "Thiago Mendes",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "21"
+    },
+    {
+      "id": "587",
+      "namePlayer": "Thiago Silva",
+      "role": "Def. Cen.",
+      "realTeam": "Paris",
+      "initCost": "22"
+    },
+    {
+      "id": "588",
+      "namePlayer": "Thioub\u00a0Sada",
+      "role": "Attaquant",
+      "realTeam": "N\u00eemes",
+      "initCost": "13"
+    },
+    {
+      "id": "589",
+      "namePlayer": "Thomas\u00a0Romain",
+      "role": "Def. Cen.",
+      "realTeam": "Angers",
+      "initCost": "13"
+    },
+    {
+      "id": "590",
+      "namePlayer": "Thomas Tour\u00e9",
+      "role": "Attaquant",
+      "realTeam": "Angers",
+      "initCost": "3"
+    },
+    {
+      "id": "591",
+      "namePlayer": "Thomasson\u00a0Adrien",
+      "role": "Mil. Off",
+      "realTeam": "Strasbourg",
+      "initCost": "16"
+    },
+    {
+      "id": "592",
+      "namePlayer": "Thuram\u00a0Marcus",
+      "role": "Attaquant",
+      "realTeam": "Guingamp",
+      "initCost": "11"
+    },
+    {
+      "id": "593",
+      "namePlayer": "Tielemans\u00a0Youri",
+      "role": "Mil. Off",
+      "realTeam": "Monaco",
+      "initCost": "17"
+    },
+    {
+      "id": "594",
+      "namePlayer": "Timite\u00a0Cheick",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "6"
+    },
+    {
+      "id": "595",
+      "namePlayer": "Todibo\u00a0Jean-Clair",
+      "role": "Mil. Def.",
+      "realTeam": "Toulouse",
+      "initCost": "8"
+    },
+    {
+      "id": "596",
+      "namePlayer": "Tour\u00e9\u00a0Abdoulaye",
+      "role": "Mil. Def.",
+      "realTeam": "Nantes",
+      "initCost": "15"
+    },
+    {
+      "id": "597",
+      "namePlayer": "Tousart\u00a0Lucas",
+      "role": "Mil. Def.",
+      "realTeam": "Lyon",
+      "initCost": "15"
+    },
+    {
+      "id": "598",
+      "namePlayer": "Traore\u00a0Gaoussou",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "599",
+      "namePlayer": "Traor\u00e9\u00a0Bertrand",
+      "role": "Attaquant",
+      "realTeam": "Lyon",
+      "initCost": "20"
+    },
+    {
+      "id": "600",
+      "namePlayer": "Traor\u00e9\u00a0Cheick",
+      "role": "Def. Lat.",
+      "realTeam": "Guingamp",
+      "initCost": "7"
+    },
+    {
+      "id": "601",
+      "namePlayer": "Traor\u00e9\u00a0Ismael",
+      "role": "Def. Cen.",
+      "realTeam": "Angers",
+      "initCost": "17"
+    },
+    {
+      "id": "602",
+      "namePlayer": "Tshibuabua\u00a0Marvin",
+      "role": "Def. Cen.",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "603",
+      "namePlayer": "Vada\u00a0Valent\u00edn",
+      "role": "Mil. Off",
+      "realTeam": "Bordeaux",
+      "initCost": "5"
+    },
+    {
+      "id": "604",
+      "namePlayer": "Valdivia\u00a0Pierrick",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "5"
+    },
+    {
+      "id": "605",
+      "namePlayer": "Valette\u00a0Baptiste",
+      "role": "Gardien",
+      "realTeam": "N\u00eemes",
+      "initCost": "6"
+    },
+    {
+      "id": "606",
+      "namePlayer": "Valls\u00a0Theo",
+      "role": "Mil. Def.",
+      "realTeam": "N\u00eemes",
+      "initCost": "14"
+    },
+    {
+      "id": "607",
+      "namePlayer": "Verite\u00a0Benjamin",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "1"
+    },
+    {
+      "id": "608",
+      "namePlayer": "Vermot\u00a0Th\u00e9o",
+      "role": "Gardien",
+      "realTeam": "Saint Etienne",
+      "initCost": "1"
+    },
+    {
+      "id": "609",
+      "namePlayer": "Verratti\u00a0Marco",
+      "role": "Mil. Def.",
+      "realTeam": "Paris",
+      "initCost": "18"
+    },
+    {
+      "id": "610",
+      "namePlayer": "Vidal\u00a0Clement",
+      "role": "Def. Cen.",
+      "realTeam": "Montpellier",
+      "initCost": "1"
+    },
+    {
+      "id": "611",
+      "namePlayer": "Vidal\u00a0Marc",
+      "role": "Gardien",
+      "realTeam": "Toulouse",
+      "initCost": "1"
+    },
+    {
+      "id": "612",
+      "namePlayer": "Vlachodimos\u00a0Panagiotis",
+      "role": "Mil. Off",
+      "realTeam": "N\u00eemes",
+      "initCost": "5"
+    },
+    {
+      "id": "613",
+      "namePlayer": "Walongwa\u00a0Anthony",
+      "role": "Def. Cen.",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "614",
+      "namePlayer": "Walter\u00a0Remi",
+      "role": "Mil. Def.",
+      "realTeam": "Nice",
+      "initCost": "8"
+    },
+    {
+      "id": "615",
+      "namePlayer": "Weah\u00a0Timothy",
+      "role": "Attaquant",
+      "realTeam": "Paris",
+      "initCost": "6"
+    },
+    {
+      "id": "616",
+      "namePlayer": "Xeka",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "10"
+    },
+    {
+      "id": "617",
+      "namePlayer": "Yago\u00a0Steeve",
+      "role": "Def. Cen.",
+      "realTeam": "Toulouse",
+      "initCost": "4"
+    },
+    {
+      "id": "618",
+      "namePlayer": "Yamb\u00e9r\u00e9\u00a0C\u00e9dric",
+      "role": "Def. Cen.",
+      "realTeam": "Dijon",
+      "initCost": "11"
+    },
+    {
+      "id": "619",
+      "namePlayer": "Yanga-Mbiwa\u00a0Mapou",
+      "role": "Def. Cen.",
+      "realTeam": "Lyon",
+      "initCost": "3"
+    },
+    {
+      "id": "620",
+      "namePlayer": "Youan\u00a0Thody Elie",
+      "role": "Attaquant",
+      "realTeam": "Nantes",
+      "initCost": "1"
+    },
+    {
+      "id": "621",
+      "namePlayer": "Youssouf\u00a0Zaydou",
+      "role": "Mil. Off",
+      "realTeam": "Bordeaux",
+      "initCost": "5"
+    },
+    {
+      "id": "622",
+      "namePlayer": "Zahary\u00a0Younn",
+      "role": "Def. Cen.",
+      "realTeam": "Caen",
+      "initCost": "1"
+    },
+    {
+      "id": "623",
+      "namePlayer": "Zeffane\u00a0Mehdi",
+      "role": "Def. Lat.",
+      "realTeam": "Rennes",
+      "initCost": "10"
+    },
+    {
+      "id": "624",
+      "namePlayer": "Zekaj\u00a0Arton",
+      "role": "Mil. Def.",
+      "realTeam": "Lille",
+      "initCost": "6"
+    },
+    {
+      "id": "625",
+      "namePlayer": "Zeki \u00c7elik\u00a0Mehmet",
+      "role": "Def. Lat.",
+      "realTeam": "Lille",
+      "initCost": "13"
+    },
+    {
+      "id": "626",
+      "namePlayer": "Zelazny\u00a0Erwin",
+      "role": "Gardien",
+      "realTeam": "Caen",
+      "initCost": "7"
+    },
+    {
+      "id": "627",
+      "namePlayer": "Zemzemi\u00a0Moataz",
+      "role": "Mil. Off",
+      "realTeam": "Strasbourg",
+      "initCost": "5"
+    },
+    {
+      "id": "628",
+      "namePlayer": "Zohi\u00a0K\u00e9vin",
+      "role": "Mil. Off",
+      "realTeam": "Strasbourg",
+      "initCost": "11"
+    },
+    {
+      "id": "629",
+      "namePlayer": "Zungu\u00a0Bongani",
+      "role": "Mil. Off",
+      "realTeam": "Amiens",
+      "initCost": "1"
+    },
+    {
+      "id": "630",
+      "namePlayer": "de Preville\u00a0Nicolas",
+      "role": "Attaquant",
+      "realTeam": "Bordeaux",
+      "initCost": "7"
+    }
+  ]
+}

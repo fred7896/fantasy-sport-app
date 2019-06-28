@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Collegier';
+  src:url('./Collegier.ttf');
+}
+
+@font-face {
+  font-family: 'WantedM54';
+  src:url('./WantedM54.ttf');
+}
+
+@font-face {
+  font-family: 'BeTrueToYourSchool';
+  src:url('./BeTrueToYourSchool.ttf');
+}
+
+.id-custom-cell {
+    color:#43A61C;
+    background-color: black;
+
+}
+
+.modal {
+  color: #43A61C;
+  position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  padding: 20;
+  background-color : black;
+  border-radius: 2px;
+  display: inline-block;
+  max-height: 450px;
+  margin: auto;
+  max-width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  justify-self: center;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.modal-body {
+  padding:2em;
+}
+
+.container-bid-modal {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-bid-modal {
+  display: flex;
+}
+
+.name-bid-modal {
+  width: 90%;
+  font-family: 'BeTrueToYourSchool';
+  font-size : 2.5em;
+  /* font-weight: bold; */
+}
+
+.close-modal-button {
+  width:10%;
+  text-align: right;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.player-portrait {
+  width: 140px;
+  height: 200px;
+  border: 0.5em double #43A61C;
+}
+
+.remove-player {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+
