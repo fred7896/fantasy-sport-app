@@ -6,8 +6,8 @@ class Header extends React.Component {
     return (
       <header className="masthead">
         <div className="inner">
-        <img className="logo" src={require("../logo.png")}/>
-        <h3 className="masthead-brand mr-2">FANTASY FOOTBALL</h3>
+        <img className="logo" src={require("../logo.png")} alt="logo"/>
+        <h3 className="masthead-brand mr-2">FANTASY F<span>OO</span>TBALL</h3>
           <ul className="nav nav-masthead justify-content-center navbar-static-top">
             <li className="nav-link active">
               <Link to="/">Home</Link>

@@ -49,7 +49,6 @@
   color: white;
 }
 
-
 .table thead th {
   border-bottom:none;
 }
@@ -131,7 +130,7 @@ a,
 a:focus,
 a:hover,
 a:active {
-  color: black;
+  color: #242424;
 }
 
 a:hover {
@@ -195,7 +194,7 @@ body {
 }
 
 .nav-masthead .active {
-  color: black;
+  color: #242424;
   border-bottom-color: #94155c;
 }
 
@@ -208,10 +207,104 @@ body {
   }
 }
 
+span {
+  color: #07F0FF;
+}
+
+/* 
+* Home
+*/
+
+.header-home {
+  border-left: 1vw solid #94155c; 
+  transition-property: border-left; 
+  transition-duration: 1s; 
+}
+
+.header-home:hover {
+  border-left: 67vw solid #94155c; 
+}
+
+.login-form {
+  width: 300px;
+  margin: 0 auto;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+.login-form h1 {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 24px;
+  padding: 20px 0 20px 0;
+}
+.login-form input[type="password"],
+.login-form input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #dddddd;
+  margin-bottom: 15px;
+  box-sizing:border-box;
+}
+.login-form input[type="password"]:focus,
+.login-form input[type="text"]:focus {
+  /* border: 1px solid #07F0FF; */
+  border: 1px solid red;
+}
+
+.login-form input[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  background-color: #94155c;
+  border: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.login-form input[type="submit"]:hover {
+  background-color: #23EF88;
+  color:black;
+}
+.register-form {
+  width: 300px;
+  margin: 0 auto;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.register-form h1 {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 24px;
+  padding: 20px 0 20px 0;
+}
+.register-form input[type="password"],
+.register-form input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #dddddd;
+  margin-bottom: 15px;
+  box-sizing:border-box;
+}
+.register-form input[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  background-color: #94155c;
+  border: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.register-form input[type="submit"]:hover {
+  background-color: #23EF88;
+  color:#242424;
+}
+
 /*
  * Footer
  */
-.mastfoot {
+ .mastfoot {
   color: rgba(36, 36, 36, .5);
 }
 
@@ -220,4 +313,14 @@ body {
   height: 2em;
 }
 
+
+.header-about {
+  border-left: 1vw solid #07F0FF; 
+  transition-property: border-left; 
+  transition-duration: 1s; 
+}
+
+.header-about:hover {
+  border-left: 67vw solid #07F0FF; 
+}
 
