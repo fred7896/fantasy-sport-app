@@ -6,7 +6,7 @@ import "react-bootstrap-table2-paginator/dist/react-bootstrap-table2-paginator.m
 import paginationFactory from "react-bootstrap-table2-paginator";
 import ReactModal from "react-modal";
 
-let dataFile = require("../playerData.json.js");
+let dataFile = require("../playerData.json");
 
 export default class Trade3 extends React.Component {
   constructor(props) {
@@ -150,7 +150,7 @@ export default class Trade3 extends React.Component {
                         </div>
                       </div>
                       <img
-                        src={require("../Cavani_Edinson_NB.png")}
+                        src={require("../players/psg/NB/Cavani_Edinson_NB.png")}
                         alt={player.name}
                         className="player-portrait"
                       />
@@ -252,7 +252,7 @@ export default class Trade3 extends React.Component {
           <table className="table table-hover table-sm">
             <thead className="thead-dark">
               <tr>
-                <th colSpan="3">Defenseurs</th>
+                <th colSpan="4">Defenseurs</th>
               </tr>
             </thead>
             <tbody className="fixed_header">
@@ -267,6 +267,16 @@ export default class Trade3 extends React.Component {
                     <td>{player.name}</td>
                     <td>{player.cote}</td>
                     <td>{player.price}</td>
+                    <td
+                        className="remove-player"
+                        onClick={this.removeCart.bind(
+                          this,
+                          player.id,
+                          this.state.cartDetail
+                        )}
+                      >
+                        X
+                      </td>
                   </tr>
                 ))}
             </tbody>
@@ -274,7 +284,7 @@ export default class Trade3 extends React.Component {
           <table className="table table-hover table-sm">
             <thead className="thead-dark">
               <tr>
-                <th colSpan="3">Milieux</th>
+                <th colSpan="4">Milieux</th>
               </tr>
             </thead>
             <tbody>
@@ -289,6 +299,16 @@ export default class Trade3 extends React.Component {
                     <td>{player.name}</td>
                     <td>{player.cote}</td>
                     <td>{player.price}</td>
+                    <td
+                        className="remove-player"
+                        onClick={this.removeCart.bind(
+                          this,
+                          player.id,
+                          this.state.cartDetail
+                        )}
+                      >
+                        X
+                      </td>
                   </tr>
                 ))}
             </tbody>
@@ -296,7 +316,7 @@ export default class Trade3 extends React.Component {
           <table className="table table-hover table-sm">
             <thead className="thead-dark fixed_header">
               <tr>
-                <th colSpan="3">Attaquants</th>
+                <th colSpan="4">Attaquants</th>
               </tr>
             </thead>
             <tbody>
@@ -311,6 +331,16 @@ export default class Trade3 extends React.Component {
                     <td>{player.name}</td>
                     <td>{player.cote}</td>
                     <td>{player.price}</td>
+                    <td
+                        className="remove-player"
+                        onClick={this.removeCart.bind(
+                          this,
+                          player.id,
+                          this.state.cartDetail
+                        )}
+                      >
+                        X
+                      </td>
                   </tr>
                 ))}
             </tbody>
