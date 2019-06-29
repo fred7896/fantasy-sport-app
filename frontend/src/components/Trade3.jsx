@@ -122,8 +122,13 @@ export default class Trade3 extends React.Component {
     console.log(this.state.cartDetail);
 
     return (
+      <React.Fragment>
+      <div className="row">
+      <h1 className="cover-heading">Trade</h1>
+      </div>
       <div className="row">
         <div className="col-9">
+        
           <ReactModal
             isOpen={this.state.showModal}
             contentLabel="Add to Cart Modal"
@@ -201,6 +206,7 @@ export default class Trade3 extends React.Component {
                   striped
                   hover
                   classes="react-bootstrap-table"
+                  tableContainerClass='my-custom-class'
                   pagination={paginationFactory()}
                 />
               </div>
@@ -208,7 +214,7 @@ export default class Trade3 extends React.Component {
           </ToolkitProvider>
         </div>
         <div className="col-3">
-          <div className="card mb-2">
+          <div className="card mb-4">
             <div className="card-body">
               {`Budget Restant : ${this.state.budget}M`}
             </div>
@@ -347,6 +353,7 @@ export default class Trade3 extends React.Component {
           </table>
         </div>
       </div>
+      </React.Fragment>
     );
   }
 }
