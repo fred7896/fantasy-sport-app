@@ -123,8 +123,8 @@ export default class Trade3 extends React.Component {
 
     return (
       <React.Fragment>
-      <div className="row">
-      <h1 className="cover-heading">Trade</h1>
+      <div className="row header-draft pl-2 pr-3 mb-3">
+      <h1 className="cover-heading">Draft</h1>
       </div>
       <div className="row">
         <div className="col-9">
@@ -220,7 +220,7 @@ export default class Trade3 extends React.Component {
             </div>
           </div>
           <table className="table table-hover table-sm">
-            <thead className="thead-dark">
+            <thead className="thead-goalkeeper">
               <tr>
                 <th colSpan="4">Gardiens</th>
               </tr>
@@ -256,7 +256,7 @@ export default class Trade3 extends React.Component {
             </tbody>
           </table>
           <table className="table table-hover table-sm">
-            <thead className="thead-dark">
+            <thead className="thead-defender">
               <tr>
                 <th colSpan="4">Defenseurs</th>
               </tr>
@@ -288,7 +288,7 @@ export default class Trade3 extends React.Component {
             </tbody>
           </table>
           <table className="table table-hover table-sm">
-            <thead className="thead-dark">
+            <thead className="thead-midfielder">
               <tr>
                 <th colSpan="4">Milieux</th>
               </tr>
@@ -320,7 +320,7 @@ export default class Trade3 extends React.Component {
             </tbody>
           </table>
           <table className="table table-hover table-sm">
-            <thead className="thead-dark fixed_header">
+            <thead className="thead-forward fixed_header">
               <tr>
                 <th colSpan="4">Attaquants</th>
               </tr>

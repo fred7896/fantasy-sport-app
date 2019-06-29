@@ -11,9 +11,7 @@ class Home extends React.Component {
             pages. Download, edit the text, and add your own fullscreen
             background photo to make it your own.
           </p>
-          <p className="lead">           
-              Learn more
-          </p>
+          <p className="lead">Learn more</p>
         </div>
       </div>
     );

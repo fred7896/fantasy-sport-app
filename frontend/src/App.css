@@ -13,10 +13,45 @@
   src:url('./BeTrueToYourSchool.ttf');
 }
 
+.header-draft {
+  border-left: 1vw solid #eaef10; 
+  transition-property: border-left; 
+  transition-duration: 1s; 
+}
+
+.header-draft:hover {
+  border-left: 67vw solid #eaef10; 
+}
+
+
 .id-custom-cell {
     color:white;
     background-color: black;
+}
 
+.thead-goalkeeper {
+  background-color: #eaef10;
+  color: #37153C;
+}
+
+.thead-defender{
+  background-color:#23EF88;
+  color: #37153C;
+}
+
+.thead-midfielder {
+  background-color: #07F0FF;
+  color: #37153C;
+}
+
+.thead-forward {
+  background-color: #E93A51;
+  color: white;
+}
+
+
+.table thead th {
+  border-bottom:none;
 }
 
 .modal {
