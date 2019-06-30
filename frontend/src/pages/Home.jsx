@@ -31,22 +31,22 @@ class Home extends React.Component {
             or a web community in private leagues.
           </p>
           <div className="row">
-            <div className="login-form px-3 my-3">
+            <div className="login-form px-3 my-3 col-6">
               <h3>Signin</h3>
               <form onSubmit={this.login}>
                 <input
-                  type="text"
-                  name="username"
-                  placeholder="Username"
-                  id="inputUsernameSignIn"
-                  ref={ref => (this.inputUsername = ref)}
+                  type="email"
+                  name="emailSignIn"
+                  placeholder="Email"
+                  id="inputEmailSignIn"
+                  ref={ref => (this.inputEmailSignIn = ref)}
                   onChange={this.handleChange}
                   value={this.state.username}
                   required
                 />
                 <input
                   type="password"
-                  name="password"
+                  name="passwordSignIn"
                   placeholder="Password"
                   id="inputPasswordSignIn"
                   ref={ref => (this.inputPassword = ref)}
@@ -57,15 +57,15 @@ class Home extends React.Component {
                 <input type="submit" />
               </form>
             </div>
-            <div className="register-form px-3 my-3">
-              <h3>Login</h3>
+            <div className="register-form px-3 my-3 col-6">
+              <h3>Register Now</h3>
               <form onSubmit={this.login}>
                 <input
-                  type="text"
-                  name="username"
-                  placeholder="Username"
-                  id="inputUsername"
-                  ref={ref => (this.inputUsername = ref)}
+                  type="email"
+                  name="email"
+                  placeholder="Email"
+                  id="inputEmail"
+                  ref={ref => (this.inputEmail = ref)}
                   onChange={this.handleChange}
                   value={this.state.username}
                   required

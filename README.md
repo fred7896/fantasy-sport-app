@@ -28,8 +28,8 @@ The goal of this project is to realize a fantasy sport app on the model of mpg :
 - [ ] integration form in the modal
 - [ ] create a drag and drop team by position (choose selection)
 --
-- [ ] user sign in form
-- [ ] user log in form
+- [ ] user register in form
+- [ ] user signin in form
 - [ ] lobby + div to create a league
 - [ ] league creation form
 

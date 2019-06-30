@@ -222,13 +222,12 @@ span {
 }
 
 .header-home:hover {
-  border-left: 67vw solid #94155c; 
+  border-left: 62vw solid #94155c; 
 }
 
 .login-form {
   width: 300px;
   margin: 0 auto;
-  font-family: Tahoma, Geneva, sans-serif;
 }
 .login-form h1 {
   text-align: center;
@@ -237,7 +236,7 @@ span {
   padding: 20px 0 20px 0;
 }
 .login-form input[type="password"],
-.login-form input[type="text"] {
+.login-form input[type="email"] {
   width: 100%;
   padding: 15px;
   border: 1px solid #dddddd;
@@ -268,7 +267,6 @@ span {
 .register-form {
   width: 300px;
   margin: 0 auto;
-  font-family: Tahoma, Geneva, sans-serif;
 }
 
 .register-form h1 {
@@ -278,7 +276,7 @@ span {
   padding: 20px 0 20px 0;
 }
 .register-form input[type="password"],
-.register-form input[type="text"] {
+.register-form input[type="email"] {
   width: 100%;
   padding: 15px;
   border: 1px solid #dddddd;
