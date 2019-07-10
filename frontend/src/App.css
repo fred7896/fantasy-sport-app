@@ -245,8 +245,8 @@ span {
 }
 .login-form input[type="password"]:focus,
 .login-form input[type="text"]:focus {
-  /* border: 1px solid #07F0FF; */
-  border: 1px solid red;
+   border: 1px solid #07F0FF; 
+
 }
 
 .login-form input[type="submit"] {
