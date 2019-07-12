@@ -1,6 +1,6 @@
 ## Project Description / User Stories
 
-The goal of this project is to realize a fantasy sport app on the model of mpg : https://mpg.football/ .
+The goal of this project : Create a fantasy sport app, not really a clone of the website "mpg"(https://mpg.football/) but something like that. It's a training project intended for complete my portfolio.
 
 - As user, i want to create an user account.
 - As user, i want to loggin/logout to my user account.
@@ -23,12 +23,12 @@ The goal of this project is to realize a fantasy sport app on the model of mpg :
 - [x] create a form in the modal
 - [x] display the bid in the cart selection
 - [x] delete a bid in the cart selection
-- [ ] initialize backend
+- [x] initialize backend
 - [ ] config min and max bid / display message
 - [ ] integration form in the modal
 - [ ] create a drag and drop team by position (choose selection)
 --
-- [ ] user register in form
+- [x] user register in form
 - [ ] user signin in form
 - [ ] lobby + div to create a league
 - [ ] league creation form

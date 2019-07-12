@@ -1,6 +1,7 @@
 import React from "react";
 import axios from "axios";
 import Header from "../components/Header";
+import cogoToast from "cogo-toast";
 
 class Home extends React.Component {
   constructor(props) {
@@ -38,10 +39,12 @@ class Home extends React.Component {
           { headers: { Accept: "application/json" } }
         )
         .then(res => {
-          console.log(res);
+          if (res.data.code === 201) {
+            cogoToast.success("Inscription réussie", { position: "top-right" });
+          }
         })
         .catch(error => {
-          console.log(error);
+          cogoToast.error("L'inscription a échoué", { position: "top-right" });
         });
     }
   };
