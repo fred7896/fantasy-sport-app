@@ -2,6 +2,8 @@ import React from "react";
 import axios from "axios";
 import Header from "../components/Header";
 import cogoToast from "cogo-toast";
+import { connect } from "react-redux";
+import userActions from "../redux/actions/userActions";
 
 class Home extends React.Component {
   constructor(props) {
@@ -49,6 +51,46 @@ class Home extends React.Component {
     }
   };
 
+  signIn = event => {
+    const token = localStorage.getItem("token");
+    event.preventDefault();
+    axios
+      .post(
+        "http://localhost:5000/api/auth",
+        {
+          email: this.state.signInEmail,
+          password: this.state.signInPassword
+        },
+        {
+          headers: {
+            Authorization: `Bearer ${token}`
+          }
+        }
+      )
+      .then(response => {
+        this.props.dispatch({ ...userActions.USER_LOGIN });
+        const { history } = this.props;
+        const { token, user } = response.data;
+        localStorage.setItem("currentEmail", user.email);
+        localStorage.setItem("id", user.id);
+        localStorage.setItem("token", token);
+        cogoToast.success("Connexion réussie", { position: "top-right" });
+        history.push("/dashboard");
+      })
+      .catch(error => {
+        if (error.response) {
+          const message = error.response.data.info.message;
+          cogoToast.error(message, { position: "top-right" });
+        }
+      });
+  };
+
+  signOut = event => {
+    event.preventDefault();
+    this.props.dispatch({ ...userActions.USER_LOGOUT });
+    cogoToast.success("Deconnexion réussie", { position: "top-right" });
+  };
+
   handleChange = event => {
     this.setState({
       [event.target.name]: event.target.value
@@ -77,7 +119,7 @@ class Home extends React.Component {
             <div className="row">
               <div className="login-form px-3 my-3 col-6">
                 <h3>Se connecter</h3>
-                <form onSubmit={this.login}>
+                <form onSubmit={this.signIn}>
                   <input
                     type="email"
                     name="signInEmail"
@@ -143,4 +185,8 @@ class Home extends React.Component {
   }
 }
 
-export default Home;
+const mapStateToProps = state => ({
+  user: state
+});
+
+export default connect(mapStateToProps)(Home);
