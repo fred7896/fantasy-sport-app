@@ -5,7 +5,10 @@ const cors = require("cors");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const { jwtSecret, connection, saltRounds } = require("./conf");
+const passport = require("passport");
+require("./passport-strategy");
 
+app.use(passport.initialize());
 app.use(cors());
 const bodyParser = require("body-parser");
 // Support JSON-encoded bodies
@@ -48,6 +51,42 @@ app.post("/api/signup", (req, res) => {
     });
   });
 });
+
+//LOGIN
+app.post("/api/auth", (req, res) => {
+  passport.authenticate("local", { session: false }, (err, user, info) => {
+    if (err || !user) {
+      return res.status(401).json({
+        message: "Failed auth !",
+        user,
+        err,
+        info
+      });
+    }
+    req.login(user, { session: false }, loginErr => {
+      if (loginErr) {
+        return res.status(401).json({
+          message: "Couldn't log you in!",
+          user,
+          loginErr
+        });
+      }
+      user.password = undefined;
+      const token = jwt.sign(user, jwtSecret);
+      return res.status(200).json({ user, token });
+    });
+  })(req, res);
+});
+
+//TEST PROTECTED ROUTE
+//Protected route
+app.get(
+  "/testAuth",
+  passport.authenticate("jwt", { session: false }),
+  (req, res) => {
+    res.status(200).send(`You're logged in !`);
+  }
+);
 
 app.listen(PORT, () => {
   console.log(`API root available at http://localhost:${PORT}/`);
