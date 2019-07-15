@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { connect } from "react-redux";
+
 import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Draft from "./pages/Draft";
