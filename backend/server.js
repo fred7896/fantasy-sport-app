@@ -4,7 +4,7 @@ const PORT = 5000;
 const cors = require("cors");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
-const { jwtSecret, connection, saltRounds } = require("./conf");
+const { jwtSecret, db, saltRounds } = require("./conf");
 const passport = require("passport");
 require("./passport-strategy");
 
@@ -37,7 +37,7 @@ app.post("/api/signup", (req, res) => {
   bcrypt.hash(users.password, parseInt(saltRounds), (err, hash) => {
     users.password = hash;
 
-    connection.query("INSERT INTO account SET ?", users, (err, results) => {
+    db.query("INSERT INTO account SET ?", users, (err, results) => {
       if (err) {
         console.error("Failure! " + err);
         return res.status(400).send("Invalid User creation request");
@@ -79,7 +79,6 @@ app.post("/api/auth", (req, res) => {
 });
 
 //TEST PROTECTED ROUTE
-//Protected route
 app.get(
   "/testAuth",
   passport.authenticate("jwt", { session: false }),
