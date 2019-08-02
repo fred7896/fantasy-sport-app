@@ -21,18 +21,21 @@ The goal of this project : Create a fantasy sport app, not really a clone of the
 - [x] Initialize backend
 - [x] User register in form
 - [x] User signin in form
+
 --
 ### Create a Club Profile
 - [x] Database - create tables
 - [ ] Create button to create Club Profile
 - [ ] Create form of Club Profile creation
 - [ ] Create backend module of Club Profile creation
+
 --
 ### Create a Dynasty team
 - [x] Database - create tables
 - [ ] Create button to create Dynasty
 - [ ] Create form of Dynasty creation
 - [ ] Create backend module of Dynasty creation
+
 --
 ### Create/Join a league feature
 - [x] Database - create tables
@@ -56,6 +59,7 @@ The goal of this project : Create a fantasy sport app, not really a clone of the
 - [x] Delete a bid in the cart selection
 - [ ] Config min and max bid / display message
 - [ ] Integration bid form in the modal
+
 --
 - [ ] create a drag and drop team by position (choose selection)
 

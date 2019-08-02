@@ -7,7 +7,7 @@ class Draft extends React.Component {
     return (
       <React.Fragment>
         <Header />
-        <div className="container my-3 cover">
+        <div className="container-page">
           <Trade3 />
         </div>
       </React.Fragment>

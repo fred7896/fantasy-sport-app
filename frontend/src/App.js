@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Draft from "./pages/Draft";
 import About from "./pages/About";
+import CreateLeague from "./pages/CreateLeague";
 
 import { createBrowserHistory } from "history";
 import "./App.css";
@@ -15,24 +16,27 @@ class App extends React.Component {
     const history = createBrowserHistory();
     return (
       <Router history={history}>
-        <div className="cover-container d-flex h-100 p-3 flex-column">
-          <Route exact path="/" component={Home} />
-          <Route
-            path="/dashboard"
-            component={Dashboard}
-            authed={this.props.user.isLoggedIn}
-          />
-          <Route
-            path="/about"
-            component={About}
-            authed={this.props.user.isLoggedIn}
-          />
-          <Route
-            path="/draft"
-            component={Draft}
-            authed={this.props.user.isLoggedIn}
-          />
-        </div>
+        <Route exact path="/" component={Home} />
+        <Route
+          path="/dashboard"
+          component={Dashboard}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/about"
+          component={About}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/draft"
+          component={Draft}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/createLeague"
+          component={CreateLeague}
+          authed={this.props.user.isLoggedIn}
+        />
       </Router>
     );
   }

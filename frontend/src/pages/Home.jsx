@@ -101,82 +101,81 @@ class Home extends React.Component {
     return (
       <React.Fragment>
         <Header />
-        <div className="container my-3 cover">
-          <div className="inner cover">
-            <div className="row header-home pl-2 pr-3 mb-3">
-              <h1 className="cover-heading">Home</h1>
+        <div className="container-page">
+          <div className="row header-home pr-3 mb-3">
+            <h1 className="brand">
+              F<span>4</span>F
+            </h1>
+            <img className="logo" src={require("../logo.png")} alt="logo" />
+          </div>
+          <h3>Compose ton équipe</h3>
+          <p className="lead">
+            Tu disposes d'un budget de 500 Millions pour composer ton équipe
+            parmi les joueurs de Ligue 1.
+          </p>
+          <h3>Crée et rejoins une ligue</h3>
+          <p className="lead">
+            Affronte amis, famille, collègues ou la communauté de joueurs dans
+            des ligues privées.
+          </p>
+          <div className="row">
+            <div className="login-form px-3 my-3 col-6">
+              <h3>Se connecter</h3>
+              <form onSubmit={this.signIn}>
+                <input
+                  type="email"
+                  name="signInEmail"
+                  placeholder="Email"
+                  id="inputEmailSignIn"
+                  ref={ref => (this.inputEmailSignIn = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signInEmail}
+                  required
+                />
+                <input
+                  type="password"
+                  name="signInPassword"
+                  placeholder="Mot de passe"
+                  id="inputPasswordSignIn"
+                  ref={ref => (this.inputSignInPassword = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signInPassword}
+                  required
+                />
+                <input type="submit" />
+              </form>
             </div>
-            <h3>Compose ton équipe</h3>
-            <p className="lead">
-              Tu disposes d'un budget de 500 Millions pour composer ton équipe
-              parmi les joueurs de Ligue 1.
-            </p>
-            <h3>Crée et rejoins une ligue</h3>
-            <p className="lead">
-              Affronte amis, famille, collègues ou la communauté de joueurs dans
-              des ligues privées.
-            </p>
-            <div className="row">
-              <div className="login-form px-3 my-3 col-6">
-                <h3>Se connecter</h3>
-                <form onSubmit={this.signIn}>
-                  <input
-                    type="email"
-                    name="signInEmail"
-                    placeholder="Email"
-                    id="inputEmailSignIn"
-                    ref={ref => (this.inputEmailSignIn = ref)}
-                    onChange={this.handleChange}
-                    value={this.state.signInEmail}
-                    required
-                  />
-                  <input
-                    type="password"
-                    name="signInPassword"
-                    placeholder="Mot de passe"
-                    id="inputPasswordSignIn"
-                    ref={ref => (this.inputSignInPassword = ref)}
-                    onChange={this.handleChange}
-                    value={this.state.signInPassword}
-                    required
-                  />
-                  <input type="submit" />
-                </form>
-              </div>
-              <div className="register-form px-3 my-3 col-6">
-                <h3>S'inscrire</h3>
-                <form onSubmit={this.signUp}>
-                  <input
-                    type="email"
-                    name="signUpEmail"
-                    placeholder="Email"
-                    id="inputEmail"
-                    ref={ref => (this.inputEmail = ref)}
-                    onChange={this.handleChange}
-                    value={this.state.signUpEmail}
-                    required
-                  />
-                  {this.state.signUpEmailError && (
-                    <div className="error">
-                      Votre adresse email est invalide.
-                    </div>
-                  )}
-                  <input
-                    type="password"
-                    name="signUpPassword"
-                    placeholder="Mot de passe"
-                    id="inputPassword"
-                    ref={ref => (this.inputPassword = ref)}
-                    onChange={this.handleChange}
-                    value={this.state.signUpPassword}
-                    required
-                  />
-                  {this.state.signUpPasswordError && (
-                    <div className="error">Au moins 8 caractères.</div>
-                  )}
-                  <input type="submit" />
-                </form>
-              </div>
+            <div className="register-form px-3 my-3 col-6">
+              <h3>S'inscrire</h3>
+              <form onSubmit={this.signUp}>
+                <input
+                  type="email"
+                  name="signUpEmail"
+                  placeholder="Email"
+                  id="inputEmail"
+                  ref={ref => (this.inputEmail = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signUpEmail}
+                  required
+                />
+                {this.state.signUpEmailError && (
+                  <div className="error">Votre adresse email est invalide.</div>
+                )}
+                <input
+                  type="password"
+                  name="signUpPassword"
+                  placeholder="Mot de passe"
+                  id="inputPassword"
+                  ref={ref => (this.inputPassword = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signUpPassword}
+                  required
+                />
+                {this.state.signUpPasswordError && (
+                  <div className="error">Au moins 8 caractères.</div>
+                )}
+                <input type="submit" />
+              </form>
             </div>
           </div>
         </div>

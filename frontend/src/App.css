@@ -1,73 +1,166 @@
 @font-face {
-  font-family: 'Collegier';
-  src:url('./Collegier.ttf');
+  font-family: "Collegier";
+  src: url("./Collegier.ttf");
 }
 
 @font-face {
-  font-family: 'WantedM54';
-  src:url('./WantedM54.ttf');
+  font-family: "WantedM54";
+  src: url("./WantedM54.ttf");
 }
 
 @font-face {
-  font-family: 'BeTrueToYourSchool';
-  src:url('./BeTrueToYourSchool.ttf');
+  font-family: "BeTrueToYourSchool";
+  src: url("./BeTrueToYourSchool.ttf");
 }
 
-.header-draft {
-  border-left: 1vw solid #eaef10; 
-  transition-property: border-left; 
-  transition-duration: 1s; 
+@font-face {
+  font-family: "DINPro-Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("DINPro-Black"), url("./DINPro-Black_13933.woff") format("woff");
 }
 
-.header-draft:hover {
-  border-left: 67vw solid #eaef10; 
+/*
+ * Header
+ */
+
+.brand {
+  margin-bottom: 0;
+  color: #94155c;
+  font-weight: 700;
 }
 
+span {
+  color: #07f0ff;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+ * Burger component 
+ */
+
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  right: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #94155c;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #07f0ff;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #07f0ff;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #373a47;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #07f0ff;
+  padding: 0.8em;
+}
+
+.bm-item-list a:hover {
+  color: #07f0ff;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/*
+ * Table
+ */
 
 .id-custom-cell {
-    color:white;
-    background-color: black;
+  color: white;
+  background-color: black;
 }
 
 .thead-goalkeeper {
   background-color: #eaef10;
-  color: #37153C;
+  color: #37153c;
 }
 
-.thead-defender{
-  background-color:#23EF88;
-  color: #37153C;
+.thead-defender {
+  background-color: #23ef88;
+  color: #37153c;
 }
 
 .thead-midfielder {
-  background-color: #07F0FF;
-  color: #37153C;
+  background-color: #07f0ff;
+  color: #37153c;
 }
 
 .thead-forward {
-  background-color: #E93A51;
+  background-color: #e93a51;
   color: white;
 }
 
 .table thead th {
-  border-bottom:none;
+  border-bottom: none;
 }
 
 .modal {
   color: white;
   position: absolute;
-	top:0;
-	bottom: 0;
-	left: 0;
-	right: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   padding: 20;
-  background-color : black;
+  background-color: black;
   border-radius: 2px;
   display: inline-block;
   max-height: 450px;
   margin: auto;
   max-width: 400px;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   justify-self: center;
 }
 
@@ -80,8 +173,12 @@
   background-color: rgba(255, 255, 255, 0.75);
 }
 
+/*
+ * Modal
+ */
+
 .modal-body {
-  padding:2em;
+  padding: 2em;
 }
 
 .container-bid-modal {
@@ -95,13 +192,13 @@
 
 .name-bid-modal {
   width: 90%;
-  font-family: 'BeTrueToYourSchool';
-  font-size : 2.5em;
+  font-family: "BeTrueToYourSchool";
+  font-size: 2.5em;
   /* font-weight: bold; */
 }
 
 .close-modal-button {
-  width:10%;
+  width: 10%;
   text-align: right;
   font-weight: bold;
   cursor: pointer;
@@ -117,9 +214,6 @@
   font-weight: bold;
   cursor: pointer;
 }
-
-
-/* cover example bootstrap*/
 
 /*
  * Globals
@@ -137,22 +231,31 @@ a:hover {
   text-decoration: none;
 }
 
+.noFocus:focus {
+  outline: none;
+}
+
 /*
  * Base structure
  */
 
-html,
+html {
+  width: 100vw;
+  height: 100vh;
+}
 body {
+  width: 100%;
+  height: 100%;
+  color: #242424;
+}
+
+#root {
+  width: 100%;
   height: 100%;
 }
 
-body, .table {
-  color:#242424;
-}
-
-body {
-  display: flex;
-  justify-content: center;
+body,
+.table {
   color: #242424;
 }
 
@@ -161,69 +264,13 @@ body {
   color: white;
 }
 
-/*
- * Header
- */
-.masthead {
-  margin-bottom: 2rem;
-}
-
-.masthead-brand {
-  margin-bottom: 0;
-  color: #94155c;
-  font-size: 2em;
-  font-weight: 700;
-  border-left-color: #94155c;
-}
-
-.nav-masthead .nav-link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: rgba(36, 36, 36, .5);
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-}
-
-.nav-masthead .nav-link:hover,
-.nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(36, 36, 36, .25);
-}
-
-.nav-masthead .nav-link + .nav-link {
-  margin-left: 1rem;
-}
-
-.nav-masthead .active {
-  color: #242424;
-  border-bottom-color: #94155c;
-}
-
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
-}
-
-span {
-  color: #07F0FF;
+.container-page {
+  margin: 100px 36px 0px 36px;
 }
 
 /* 
 * Home
 */
-
-.header-home {
-  border-left: 1vw solid #94155c; 
-  transition-property: border-left; 
-  transition-duration: 1s; 
-}
-
-.header-home:hover {
-  border-left: 62vw solid #94155c; 
-}
 
 .login-form {
   width: 300px;
@@ -241,12 +288,11 @@ span {
   padding: 15px;
   border: 1px solid #dddddd;
   margin-bottom: 15px;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 .login-form input[type="password"]:focus,
 .login-form input[type="text"]:focus {
-   border: 1px solid #07F0FF; 
-
+  border: 1px solid #07f0ff;
 }
 
 .login-form input[type="submit"] {
@@ -261,8 +307,8 @@ span {
 }
 
 .login-form input[type="submit"]:hover {
-  background-color: #23EF88;
-  color:black;
+  background-color: #23ef88;
+  color: black;
 }
 .register-form {
   width: 300px;
@@ -281,7 +327,7 @@ span {
   padding: 15px;
   border: 1px solid #dddddd;
   margin-bottom: 15px;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 .register-form input[type="submit"] {
   width: 100%;
@@ -295,30 +341,72 @@ span {
 }
 
 .register-form input[type="submit"]:hover {
-  background-color: #23EF88;
-  color:#242424;
+  background-color: #23ef88;
+  color: #242424;
+}
+
+/*
+ * Dashboard
+ */
+
+.container-part {
+  height: 15vh;
+  margin: 0;
+  margin-bottom : .5em;
+  padding : .5rem;
+  font-family: "DINPro-Black";
+  color: white;
+  font-size: 3rem;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.back-green {
+  background-color: #23ef88;
+}
+
+.back-blue {
+  background-color: #07f0ff;
+}
+
+.back-indigo {
+  background-color: #94155c;
+}
+
+/*
+ * Creation Ligue
+ */
+
+.privacy {
+  text-align: center;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"]:checked + .box {
+  background-color: #23ef88;
+  font-size: 1.5em;
+}
+
+.privacy span {
+  color: grey;
+  font-size: 1.5em;
 }
 
 /*
  * Footer
  */
- .mastfoot {
-  color: rgba(36, 36, 36, .5);
+.mastfoot {
+  color: rgba(36, 36, 36, 0.5);
 }
 
 .logo {
-  width: 2em;
-  height: 2em;
+  width: 2.2em;
+  height: 2.2em;
+  margin-top: 5px;
+  margin-left: 8px;
 }
-
-
-.header-about {
-  border-left: 1vw solid #07F0FF; 
-  transition-property: border-left; 
-  transition-duration: 1s; 
-}
-
-.header-about:hover {
-  border-left: 67vw solid #07F0FF; 
-}
-

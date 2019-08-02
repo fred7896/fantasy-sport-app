@@ -2,19 +2,19 @@ import React from "react";
 import Header from "../components/Header";
 
 class Dashboard extends React.Component {
+
+goTo(path) {
+  this.props.history.push(path);
+}
+
   render() {
     return (
       <React.Fragment>
         <Header />
-        <div className="container my-3 cover">
-          <div className="inner cover">
-            <div className="row header-about pl-2 pr-3 mb-3">
-              <h1 className="cover-heading">Dashboard</h1>
-            </div>
-              <div>Créer une ligue</div>
-              <div>Rejoindre une ligue</div>
-            <p className="lead">Learn more</p>
-          </div>
+        <div className="container-page">
+            <div className="container-part back-indigo pointer" >CREER UN CLUB</div>
+            <div className="container-part back-green pointer" onClick={this.goTo.bind(this, './createLeague')}>CREER UNE LIGUE</div>
+            <div className="container-part back-blue">REJOINDRE UNE LIGUE</div>
         </div>
       </React.Fragment>
     );
