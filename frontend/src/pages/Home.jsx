@@ -100,7 +100,6 @@ class Home extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Header />
         <div className="container-page">
           <div className="row header-home pr-3 mb-3">
             <h1 className="brand">
@@ -108,7 +107,7 @@ class Home extends React.Component {
             </h1>
             <img className="logo" src={require("../logo.png")} alt="logo" />
           </div>
-          <h3>Compose ton équipe</h3>
+          {/* <h3>Compose ton équipe</h3>
           <p className="lead">
             Tu disposes d'un budget de 500 Millions pour composer ton équipe
             parmi les joueurs de Ligue 1.
@@ -117,7 +116,7 @@ class Home extends React.Component {
           <p className="lead">
             Affronte amis, famille, collègues ou la communauté de joueurs dans
             des ligues privées.
-          </p>
+          </p> */}
           <div className="row">
             <div className="login-form px-3 my-3 col-6">
               <h3>Se connecter</h3>

@@ -7,6 +7,7 @@ import Dashboard from "./pages/Dashboard";
 import Draft from "./pages/Draft";
 import About from "./pages/About";
 import CreateLeague from "./pages/CreateLeague";
+import Snow from "./pages/Snow";
 
 import { createBrowserHistory } from "history";
 import "./App.css";
@@ -35,6 +36,11 @@ class App extends React.Component {
         <Route
           path="/createLeague"
           component={CreateLeague}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/snow"
+          component={Snow}
           authed={this.props.user.isLoggedIn}
         />
       </Router>
