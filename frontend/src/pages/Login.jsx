@@ -4,9 +4,9 @@ import cogoToast from "cogo-toast";
 import { connect } from "react-redux";
 import userActions from "../redux/actions/userActions";
 
-import "./Snow.css";
+import "./Login.css";
 
-class Snow extends React.Component {
+class Login extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -102,7 +102,7 @@ class Snow extends React.Component {
     return (
       <React.Fragment>
         <div className="container-sign">
-          <div id="login" class="login">
+          <form id="login" className="login" onSubmit={this.signIn} >
             <div className="login-icon-field">
               <svg
                 className="login-icon"
@@ -111,7 +111,7 @@ class Snow extends React.Component {
                 x="0px"
                 y="0px"
                 viewBox="5.0 -10.0 100.0 135.0"
-                enable-background="new 0 0 100 100"
+                // enable-background="new 0 0 100 100"
                 height="160px"
                 width="160px"
               >
@@ -126,10 +126,10 @@ class Snow extends React.Component {
             </div>
             <div className="login-form-b">
               <div className="username-row">
-                <label for="username_input">
+                <label htmlFor="username_input">
                   <svg
                     version="1.1"
-                    class="user-icon"
+                    className="user-icon"
                     x="0px"
                     y="0px"
                     viewBox="-255 347 100 100"
@@ -147,14 +147,20 @@ class Snow extends React.Component {
                   </svg>
                 </label>
                 <input
-                  type="text"
-                  id="username_input"
                   className="sign-input"
-                  placeholder="Username"
+                  type="email"
+                  name="signInEmail"
+                  placeholder="Email"
+                  id="inputEmailSignIn"
+                  ref={ref => (this.inputEmailSignIn = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signInEmail}
+                  required
+
                 />
               </div>
               <div className="password-row">
-                <label for="password_input">
+                <label htmlFor="password_input">
                   <svg
                     version="1.1"
                     className="password-icon"
@@ -173,25 +179,34 @@ class Snow extends React.Component {
                 </label>
                 <input
                   type="password"
-                  id="password_input"
                   className="sign-input"
-                  placeholder="Password"
+                  name="signInPassword"
+                  placeholder="Mot de passe"
+                  id="inputPasswordSignIn"
+                  ref={ref => (this.inputSignInPassword = ref)}
+                  onChange={this.handleChange}
+                  value={this.state.signInPassword}
+                  required
                 />
               </div>
             </div>
             <div className="call-to-action">
-              <button id="login-button" type="button">
-                Log In
+              <button id="login-button" type="submit">
+                Se connecter
               </button>
               <p>
-                Don't have an account? <a>Sign Up</a>
+                Vous n'avez pas de compte? <a href="/register">S'inscrire</a>
               </p>
             </div>
-          </div>
+          </form>
         </div>
       </React.Fragment>
     );
   }
 }
 
-export default Snow;
+const mapStateToProps = state => ({
+  user: state
+});
+
+export default connect(mapStateToProps)(Login);

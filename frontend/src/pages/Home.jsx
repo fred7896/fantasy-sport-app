@@ -1,6 +1,5 @@
 import React from "react";
 import axios from "axios";
-import Header from "../components/Header";
 import cogoToast from "cogo-toast";
 import { connect } from "react-redux";
 import userActions from "../redux/actions/userActions";

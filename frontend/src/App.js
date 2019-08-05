@@ -2,12 +2,12 @@ import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { connect } from "react-redux";
 
-import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Draft from "./pages/Draft";
 import About from "./pages/About";
 import CreateLeague from "./pages/CreateLeague";
-import Snow from "./pages/Snow";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 
 import { createBrowserHistory } from "history";
 import "./App.css";
@@ -17,7 +17,7 @@ class App extends React.Component {
     const history = createBrowserHistory();
     return (
       <Router history={history}>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={Login} />
         <Route
           path="/dashboard"
           component={Dashboard}
@@ -39,8 +39,13 @@ class App extends React.Component {
           authed={this.props.user.isLoggedIn}
         />
         <Route
-          path="/snow"
-          component={Snow}
+          path="/login"
+          component={Login}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/register"
+          component={Register}
           authed={this.props.user.isLoggedIn}
         />
       </Router>
