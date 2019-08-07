@@ -29,10 +29,10 @@
   color: #94155c;
   font-weight: 700;
 }
-
+/* 
 span {
   color: #07f0ff;
-}
+} */
 
 .row {
   margin: 0;
@@ -270,7 +270,7 @@ body,
 
 /* 
 * Home
-*/
+
 
 .login-form {
   width: 300px;
@@ -345,12 +345,13 @@ body,
   color: #242424;
 }
 
+*/
+
 /*
  * Dashboard
  */
 
 .container-part {
-  height: 15vh;
   margin: 0;
   margin-bottom : .5em;
   padding : .5rem;
@@ -373,28 +374,6 @@ body,
 
 .back-indigo {
   background-color: #94155c;
-}
-
-/*
- * Creation Ligue
- */
-
-.privacy {
-  text-align: center;
-}
-
-input[type="radio"] {
-  display: none;
-}
-
-input[type="radio"]:checked + .box {
-  background-color: #23ef88;
-  font-size: 1.5em;
-}
-
-.privacy span {
-  color: grey;
-  font-size: 1.5em;
 }
 
 /*

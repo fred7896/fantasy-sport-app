@@ -39,8 +39,8 @@ The goal of this project : Create a fantasy sport app, not really a clone of the
 --
 ### Create/Join a league feature
 - [x] Database - create tables
-- [ ] Create button to create league
-- [ ] Create form of league creation
+- [x] Create button to create league
+- [x] Create form of league creation
 - [ ] Create backend module of league creation
 - [ ] Create a confirmation notification of league creation
 - [ ] Create code form to join a league

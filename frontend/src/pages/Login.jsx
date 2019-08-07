@@ -20,38 +20,6 @@ class Login extends React.Component {
     };
   }
 
-  signUp = event => {
-    event.preventDefault();
-
-    const errors = {};
-
-    errors.signUpEmailError = !/^[a-z0-9._-]+@[a-z0-9._-]{2,}\.[a-z]{2,4}$/.test(
-      this.state.signUpEmail
-    );
-    errors.signUpPasswordError = this.state.signUpPassword.length <= 7;
-    this.setState(errors);
-    console.log();
-    if (!errors.signUpEmailError && !errors.signUpPasswordError) {
-      axios
-        .post(
-          "http://localhost:5000/api/signup",
-          {
-            email: this.state.signUpEmail,
-            password: this.state.signUpPassword
-          },
-          { headers: { Accept: "application/json" } }
-        )
-        .then(res => {
-          if (res.data.code === 201) {
-            cogoToast.success("Inscription réussie", { position: "top-right" });
-          }
-        })
-        .catch(error => {
-          cogoToast.error("L'inscription a échoué", { position: "top-right" });
-        });
-    }
-  };
-
   signIn = event => {
     const token = localStorage.getItem("token");
     event.preventDefault();
