@@ -43,7 +43,6 @@ input[type="radio"]:checked + .box {
 }
 
 .privacy span {
-
   font-size: 1.5em;
 }
 
@@ -129,6 +128,59 @@ input[type="submit"] {
     margin-top: 0;
   }
   .col-50 {
-      width: 80vw;
+    width: 80vw;
   }
+}
+
+/* Styliser le select */
+.league-select {
+  position: relative;
+
+  background-color: #fff !important ;
+  border: #777 1px solid;
+  margin: 0 0 1.5em 0;
+
+  overflow: hidden;
+}
+
+.league-select select {
+  -webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+	width: 100%; 
+	/* 
+		On est sûr de ne plus voir
+		la flèche native 
+	*/
+	
+	height: auto;
+	border: 0; 
+	margin: 0;
+	padding: .75em;
+	border-radius: 0;
+	
+
+	overflow: hidden;
+  text-overflow: ellipsis;
+  /* 
+		On empêche le texte d'aller
+		jusqu'au bout s'il est trop long
+	*/
+}
+
+.league-select::after { 
+	/* Le pointeur du select */
+	content: '';
+	position: absolute;
+	top: 50%; 
+	margin-top: -3px;
+	right: .75em;  
+	display: block; 
+	width: 0; height: 0;
+	border-color: transparent;
+	border-top-color: #444; 
+	border-width: 6px;
+	border-style: solid;
+	pointer-events: none;
 }

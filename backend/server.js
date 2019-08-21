@@ -78,6 +78,31 @@ app.post("/api/auth", (req, res) => {
   })(req, res);
 });
 
+//CREATE LEAGUE
+app.post("/api/newLeague", (req, res) => {
+  const league = {
+    name: req.body.name,
+    championship: req.body.championship,
+    privacy: req.body.privacy,
+    season: 1,
+    join_code: req.body.join_code,
+    created_by: req.body.created_by
+  };
+
+  db.query("INSERT INTO league SET ?", league, (err, results) => {
+    if (err) {
+      console.error("Failure! " + err);
+      return res.status(500).send("requete de création invalide");
+    } else {
+      console.log("The solution is: ", results);
+      res.send({
+        code: 201,
+        success: "Ligue créée avec succès"
+      });
+    }
+  });
+});
+
 //TEST PROTECTED ROUTE
 app.get(
   "/testAuth",

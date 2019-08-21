@@ -1,5 +1,7 @@
 import React from "react";
 import Header from "../components/Header";
+import axios from "axios";
+import swal from "sweetalert";
 
 import "./CreateLeague.css";
 
@@ -9,11 +11,16 @@ class CreateLeague extends React.Component {
     this.state = {
       leagueName: "",
       championship: "ligue1",
-      isPrivate: "1"
+      isPrivate: "1",
+      joinCode:""
     };
 
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  componentDidMount() {
+    this.setJoinCode(7);
   }
 
   handleChange(event) {
@@ -21,11 +28,52 @@ class CreateLeague extends React.Component {
   }
 
   handleSubmit(event) {
-    alert("Votre parfum favori est : " + this.state.league);
     event.preventDefault();
+    const id = localStorage.getItem("id");
+    axios
+      .post(
+        "http://localhost:5000/api/newLeague",
+        {
+          name: this.state.leagueName,
+          championship: this.state.championship,
+          privacy: this.state.isPrivate,
+          join_code : this.state.joinCode,
+          created_by: id
+        },
+        {
+          headers: {
+            Accept: "application/json",
+            // Authorization: `Bearer ${token}`
+          }
+        }
+      ).then(() => {
+        swal(
+          "Ligue créée",
+          `Partagez le code ${this.state.joinCode}`,
+          "success"
+        );
+      })
+      .catch(error => {
+        swal("Erreur", "Votre ligue n'a pas pu être créée", "error");
+      });
   }
 
+  setJoinCode(length) {
+    let result           = '';
+    const characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    const charactersLength = characters.length;
+    for ( let i = 0; i < length; i++ ) {
+       result += characters.charAt(Math.floor(Math.random() * charactersLength));
+    }
+    this.setState({
+      joinCode : result
+    });
+ }
+ 
+
+
   render() {
+    console.log(this.state.joinCode);
     return (
       <React.Fragment>
         <Header />
@@ -54,7 +102,9 @@ class CreateLeague extends React.Component {
                       type="text"
                       id="leagueName"
                       name="leagueName"
-                      // placeholder="Nom de ta ligue"
+                      value={this.state.leagueName}
+                      onChange={this.handleChange}
+                      placeholder="Nom de ta ligue"
                     />
                   </div>
                 </div>
@@ -68,7 +118,7 @@ class CreateLeague extends React.Component {
                     <select
                       id="championship"
                       name="championship"
-                      value={this.state.league}
+                      value={this.state.championship}
                       onChange={this.handleChange}
                     >
                       <option value="ligue1">France - Ligue 1</option>
