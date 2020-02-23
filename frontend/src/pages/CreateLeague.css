@@ -3,10 +3,10 @@ h1 {
   font-size: 1.5em;
 }
 
-/*  Version tablette */
-@media only screen and (max-width: 690px) {
+/*  Version Mobile S - 320px */
+@media only screen and (max-width: 320px) {
   h1 {
-    font-size: 1em;
+    font-size: 0.5em;
   }
 }
 
@@ -17,12 +17,13 @@ h1 {
   }
 }
 
-/*  Version Mobile S - 320px */
-@media only screen and (max-width: 420px) {
+/*  Version tablette */
+@media only screen and (max-width: 690px) {
   h1 {
-    font-size: 0.5em;
+    font-size: 1em;
   }
 }
+
 
 /*
  * Creation Ligue

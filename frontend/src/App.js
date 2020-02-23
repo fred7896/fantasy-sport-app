@@ -6,6 +6,7 @@ import Dashboard from "./pages/Dashboard";
 import Draft from "./pages/Draft";
 import About from "./pages/About";
 import CreateLeague from "./pages/CreateLeague";
+import JoinLeague from "./pages/JoinLeague";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 
@@ -36,6 +37,11 @@ class App extends React.Component {
         <Route
           path="/createLeague"
           component={CreateLeague}
+          authed={this.props.user.isLoggedIn}
+        />
+        <Route
+          path="/joinLeague"
+          component={JoinLeague}
           authed={this.props.user.isLoggedIn}
         />
         <Route

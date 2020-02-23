@@ -1,0 +1,63 @@
+.joinLeague {
+  /*  Version Mobile S - 320px */
+  @media only screen and (max-width: 320px) {
+    h1 {
+      font-size: 0.5em;
+    }
+  }
+
+  /*  Version smartphone */
+  @media only screen and (max-width: 420px) {
+    h1 {
+      font-size: 0.7em;
+    }
+    input[type="text"],
+    select {
+      width: 100%;
+      padding: 12px;
+    }
+  }
+
+  /*  Version tablette */
+  @media only screen and (max-width: 690px) {
+    h1 {
+      font-size: 1em;
+    }
+  }
+  .stadium2 {
+    width: 100%;
+    max-width: 100vw;
+    padding-top: 20px;
+  }
+
+  @media only screen and (min-width: 690px) {
+    /* Version PC */
+    h1 {
+      font-size: 1.5em;
+    }
+
+    .stadium2 {
+      width: auto;
+      height: 250px;
+      max-width: 100vw;
+      padding-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+
+    input[type="text"],
+    select {
+      width: 85%;
+      padding: 10px;
+      height: 50px;
+      margin-left: 15px;
+      margin-right : 15px;
+    }
+
+    input[type="submit"] {
+      height: 50px;
+
+  }
+}
+}

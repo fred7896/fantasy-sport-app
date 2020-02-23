@@ -103,6 +103,24 @@ app.post("/api/newLeague", (req, res) => {
   });
 });
 
+//GET LEAGUE BY JOIN CODE
+app.get("/api/league/:code", (req, res) => {
+  const code = req.params.code;
+  db.query(
+    "SELECT id, name FROM league WHERE join_code = ?",
+    [code],
+    (err, results) => {
+      if (err) {
+        res.status(500).send("Erreur lors de la récupération de la ligue");
+      } else {
+        res.json(results);
+      }
+    }
+  );
+});
+
+//CREATE LEAGUE PLAYER TO 
+
 //TEST PROTECTED ROUTE
 app.get(
   "/testAuth",
